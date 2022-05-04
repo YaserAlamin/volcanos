@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Volcanos in Italy</name>
+<description>This map contain a selection of volcanos in Italy, with All  status, and All  type.</description>
+<Placemark>
+<name>Larderello</name>
+<description>Volcano of type Explosion crater, status of  Historical, and have elevation of 500</description>
+<Point><coordinates>10.87,43.25</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Campi Flegrei Mar Sicilia</name>
+<description>Volcano of type Submarine volcano, status of  Historical, and have elevation of -8</description>
+<Point><coordinates>12.70,37.1</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pantelleria</name>
+<description>Volcano of type Shield volcano, status of  Historical, and have elevation of 836</description>
+<Point><coordinates>12.02,36.77</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Etna</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 3350</description>
+<Point><coordinates>15.00,37.734</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vulcano</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 500</description>
+<Point><coordinates>14.96,38.404</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Stromboli</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 924</description>
+<Point><coordinates>15.21,38.789</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lipari</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 602</description>
+<Point><coordinates>14.95,38.48</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Panarea</name>
+<description>Volcano of type Stratovolcano, status of  Pleistocene-Fumarolic, and have elevation of 421</description>
+<Point><coordinates>15.07,38.63</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ischia</name>
+<description>Volcano of type Complex volcano, status of  Historical, and have elevation of 789</description>
+<Point><coordinates>13.90,40.73</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vesuvius</name>
+<description>Volcano of type Somma volcano, status of  Historical, and have elevation of 1281</description>
+<Point><coordinates>14.43,40.821</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Campi Flegrei</name>
+<description>Volcano of type Caldera, status of  Historical, and have elevation of 458</description>
+<Point><coordinates>14.14,40.827</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Alban Hills</name>
+<description>Volcano of type Caldera, status of  Holocene, and have elevation of 949</description>
+<Point><coordinates>12.70,41.73</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vulsini</name>
+<description>Volcano of type Caldera, status of  Historical, and have elevation of 800</description>
+<Point><coordinates>11.93,42.6</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Amiata</name>
+<description>Volcano of type Lava dome, status of  Pleistocene-Fumarolic, and have elevation of 1738</description>
+<Point><coordinates>11.63,42.9</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Historical volcanos in Nicaragua</name>
+<description>This map contain a selection of volcanos in Nicaragua, with Historical status, and All  type.</description>
+<Placemark>
+<name>Cosiguina</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 872</description>
+<Point><coordinates>-87.57,12.98</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Concepcion</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 1700</description>
+<Point><coordinates>-85.62,11.538</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Masaya</name>
+<description>Volcano of type Caldera, status of  Historical, and have elevation of 635</description>
+<Point><coordinates>-86.16,11.984</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Momotombo</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 1297</description>
+<Point><coordinates>-86.54,12.422</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pilas, Las</name>
+<description>Volcano of type Complex volcano, status of  Historical, and have elevation of 1088</description>
+<Point><coordinates>-86.69,12.495</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Negro, Cerro</name>
+<description>Volcano of type Cinder cone, status of  Historical, and have elevation of 728</description>
+<Point><coordinates>-86.70,12.506</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Telica</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 1061</description>
+<Point><coordinates>-86.85,12.602</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>San Cristobal</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 1745</description>
+<Point><coordinates>-87.00,12.702</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

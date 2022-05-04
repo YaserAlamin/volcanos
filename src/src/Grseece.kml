@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>Stratovolcanos in Greece</name>
+<description>This map contain a selection of volcanos in Greece, with All  status, and Stratovolcano type.</description>
+<Placemark>
+<name>Milos</name>
+<description>Volcano of type Stratovolcano, status of  Radiocarbon, and have elevation of 751</description>
+<Point><coordinates>24.44,36.699</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nisyros</name>
+<description>Volcano of type Stratovolcano, status of  Historical, and have elevation of 698</description>
+<Point><coordinates>27.16,36.586</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1547 @@
+NAME;LOCATION;STATUS;LATITUDE;NS;LONGITUDE;EW;ELEV;TYPE
+West Eifel Volc Field;Germany;Radiocarbon;50.17;N;6.85;E;600;Maar
+Chaine des Puys;France;Radiocarbon;45.775;N;2.97;E;1464;Cinder cone
+Olot Volc Field;Spain;Holocene;42.17;N;2.53;E;893;Pyroclastic cone
+Larderello;Italy;Historical;43.25;N;10.87;E;500;Explosion crater
+Amiata;Italy;Pleistocene-Fumarolic;42.9;N;11.63;E;1738;Lava dome
+Vulsini;Italy;Historical;42.6;N;11.93;E;800;Caldera
+Alban Hills;Italy;Holocene;41.73;N;12.70;E;949;Caldera
+Campi Flegrei;Italy;Historical;40.827;N;14.14;E;458;Caldera
+Vesuvius;Italy;Historical;40.821;N;14.43;E;1281;Somma volcano
+Ischia;Italy;Historical;40.73;N;13.90;E;789;Complex volcano
+Panarea;Italy;Pleistocene-Fumarolic;38.63;N;15.07;E;421;Stratovolcano
+Lipari;Italy;Historical;38.48;N;14.95;E;602;Stratovolcano
+Stromboli;Italy;Historical;38.789;N;15.21;E;924;Stratovolcano
+Vulcano;Italy;Historical;38.404;N;14.96;E;500;Stratovolcano
+Etna;Italy;Historical;37.734;N;15.00;E;3350;Stratovolcano
+Pantelleria;Italy;Historical;36.77;N;12.02;E;836;Shield volcano
+Campi Flegrei Mar Sicilia;Italy;Historical;37.1;N;12.70;E;-8;Submarine volcano
+Methana;Greece;Historical;37.615;N;23.34;E;760;Lava dome
+Milos;Greece;Radiocarbon;36.699;N;24.44;E;751;Stratovolcano
+Santorini;Greece;Historical;36.404;N;25.40;E;367;Shield volcano
+Yali;Greece;Holocene;36.671;N;27.14;E;180;Lava dome
+Nisyros;Greece;Historical;36.586;N;27.16;E;698;Stratovolcano
+Kos;Greece;Pleistocene-Fumarolic;36.852;N;27.25;E;430;Caldera
+Kula;Turkey;Holocene;38.58;N;28.52;E;750;Cinder cone
+Karapinar Field;Turkey;Holocene;37.67;N;33.65;E;1302;Cinder cone
+Hasan Dagi;Turkey;Anthropology;38.13;N;34.17;E;3253;Stratovolcano
+Gollu Dag;Turkey;Holocene;38.25;N;34.57;E;2143;Lava dome
+Acigol-Nevsehir;Turkey;Anthropology;38.57;N;34.52;E;1689;Caldera
+Karaca Dag;Turkey;Holocene;37.67;N;39.83;E;1957;Shield volcano
+Erciyes Dagi;Turkey;Holocene;38.52;N;35.48;E;3916;Stratovolcano
+Suphan Dagi;Turkey;Holocene;38.92;N;42.82;E;4158;Stratovolcano
+Girekol;Turkey;Holocene;39.17;N;43.33;E;;Unknown
+Nemrut Dagi;Turkey;Historical;38.65;N;42.23;E;2948;Stratovolcano
+Tendurek Dagi;Turkey;Historical;39.37;N;43.87;E;3584;Shield volcano
+Ararat;Turkey;Historical;39.7;N;44.30;E;5165;Stratovolcano
+Kars Plateau;Turkey;Holocene;40.75;N;42.90;E;3000;Volcanic field
+Elbrus;Russia-SW;Tephrochronology;43.33;N;42.45;E;5633;Stratovolcano
+Kasbek;Georgia;Tephrochronology;42.7;N;44.50;E;5050;Stratovolcano
+Kabargin Oth Group;Georgia;Holocene;42.55;N;44.00;E;3650;Cinder cone
+Unnamed;Georgia;Holocene;42.45;N;44.25;E;3750;Cinder cone
+Unnamed;Georgia;Holocene;41.55;N;43.60;E;3400;Lava cone
+Aragats;Armenia;Holocene;40.53;N;44.20;E;4095;Stratovolcano
+Ghegam Ridge;Armenia;Anthropology;40.275;N;44.75;E;3597;Volcanic field
+Dar-Alages;Armenia;Anthropology;39.7;N;45.54;E;3329;Pyroclastic cone
+Porak;Armenia;Anthropology;40.02;N;45.78;E;2800;Stratovolcano
+Tskhouk-Karckar;Armenia;Tephrochronology;39.73;N;46.02;E;3000;Pyroclastic cone
+Tair, Jebel at;Red Sea;Historical;15.55;N;41.82;E;244;Stratovolcano
+Zukur;Red Sea;Holocene;14.02;N;42.75;E;624;Shield volcano
+Hanish;Red Sea;Holocene;13.72;N;42.73;E;422;Shield volcano
+Zubair, Jebel;Red Sea;Historical;15.05;N;42.18;E;191;Shield volcano
+Jalua;Ethiopia;Holocene;15.042;N;39.82;E;713;Stratovolcano
+Dallol;Ethiopia;Historical;14.242;N;40.30;E;-48;Explosion crater
+Alid;Ethiopia;Holocene;14.88;N;39.92;E;904;Stratovolcano
+Gada Ale;Ethiopia;Holocene;13.975;N;40.41;E;287;Stratovolcano
+Alu;Ethiopia;Holocene;13.82;N;40.55;E;429;Fissure vent
+Borale Ale;Ethiopia;Holocene;13.725;N;40.60;E;668;Stratovolcano
+Dalaffilla;Ethiopia;Holocene;13.792;N;40.55;E;613;Stratovolcano
+Erta Ale;Ethiopia;Historical;13.6;N;40.67;E;613;Shield volcano
+Hayli Gubbi;Ethiopia;Holocene;13.5;N;40.72;E;521;Shield volcano
+Ale Bagu;Ethiopia;Holocene;13.52;N;40.63;E;1031;Stratovolcano
+Nabro;Ethiopia;Holocene;13.37;N;41.70;E;2218;Stratovolcano
+Mallahle;Ethiopia;Holocene;13.27;N;41.65;E;1875;Stratovolcano
+Sork Ale;Ethiopia;Holocene;13.18;N;41.73;E;1611;Stratovolcano
+Asavyo;Ethiopia;Holocene;13.07;N;41.60;E;1200;Shield volcano
+Mat Ala;Ethiopia;Holocene;13.1;N;41.15;E;523;Shield volcano
+Tat Ali;Ethiopia;Holocene;13.28;N;41.07;E;700;Shield volcano
+Borawli;Ethiopia;Holocene;13.3;N;40.98;E;812;Stratovolcano
+Dubbi;Ethiopia;Historical;13.58;N;41.81;E;1625;Stratovolcano
+Ma Alalta;Ethiopia;Holocene;13.02;N;40.20;E;1815;Stratovolcano
+Alayta;Ethiopia;Historical;12.88;N;40.57;E;1501;Shield volcano
+Dabbahu;Ethiopia;Historical;12.6;N;40.48;E;1442;Stratovolcano
+Dabbayra;Ethiopia;Holocene;12.38;N;40.07;E;1302;Shield volcano
+Manda Hararo;Ethiopia;Holocene;12.17;N;40.82;E;600;Shield volcano
+Groppo;Ethiopia;Holocene;11.73;N;40.25;E;930;Stratovolcano
+Afdera;Ethiopia;Holocene;13.08;N;40.85;E;1295;Stratovolcano
+Borawli;Ethiopia;Holocene;11.63;N;41.45;E;875;Lava dome
+Manda-Inakir;Ethiopia;Historical;12.38;N;42.20;E;600;Fissure vent
+Mousa Alli;Ethiopia;Holocene;12.47;N;42.40;E;2028;Stratovolcano
+Gufa;Ethiopia;Holocene;12.55;N;42.53;E;600;Volcanic field
+Assab Volc Field;Ethiopia;Holocene;12.95;N;42.43;E;987;Volcanic field
+Ardoukoba;Djibouti;Historical;11.58;N;42.47;E;298;Fissure vent
+Kurub;Ethiopia;Holocene;11.88;N;41.21;E;625;Shield volcano
+Garbes;Djibouti;Pleistocene-Fumarolic;11.42;N;42.20;E;1000;Fumarole field
+Dama Ali;Ethiopia;Historical;11.28;N;41.63;E;1068;Shield volcano
+Boina;Djibouti;Pleistocene-Fumarolic;11.25;N;41.83;E;300;Fumarole field
+Yangudi;Ethiopia;Holocene;10.58;N;41.04;E;1383;Complex volcano
+Gabillema;Ethiopia;Holocene;11.08;N;41.27;E;1459;Stratovolcano
+Ayelu;Ethiopia;Holocene;10.082;N;40.70;E;2145;Stratovolcano
+Hertali;Ethiopia;Holocene;9.78;N;40.33;E;900;Fissure vent
+Liado Hayk;Ethiopia;Holocene;9.57;N;40.28;E;878;Maar
+Adwa;Ethiopia;Holocene;10.07;N;40.84;E;1733;Stratovolcano
+Dofen;Ethiopia;Holocene;9.35;N;40.13;E;1151;Stratovolcano
+Beru;Ethiopia;Holocene;8.95;N;39.75;E;1100;Volcanic field
+Fentale;Ethiopia;Historical;8.975;N;39.93;E;2007;Stratovolcano
+Kone;Ethiopia;Historical;8.8;N;39.69;E;1619;Caldera
+Unnamed;Ethiopia;Holocene;8.7;N;39.63;E;1300;Pyroclastic cone
+Boset-Bericha;Ethiopia;Holocene;8.558;N;39.48;E;2447;Stratovolcano
+Bishoftu Volc Field;Ethiopia;Holocene;8.78;N;38.98;E;1850;Fissure vent
+Unnamed;Ethiopia;Holocene;8.62;N;38.95;E;1800;Fissure vent
+Sodore;Ethiopia;Holocene;8.43;N;39.35;E;1765;Pyroclastic cone
+Gedamsa Caldera;Ethiopia;Holocene;8.35;N;39.18;E;1984;Caldera
+Bora-Bericcio;Ethiopia;Holocene;8.27;N;39.03;E;2285;Pumice cone
+Tullu Moje;Ethiopia;Anthropology;8.158;N;39.13;E;2349;Pumice cone
+Unnamed;Ethiopia;Holocene;8.07;N;39.07;E;1800;Fissure vent
+East Zway;Ethiopia;Holocene;7.95;N;38.93;E;1889;Fissure vent
+Butajiri-Silti Field;Ethiopia;Holocene;8.05;N;38.35;E;2281;Fissure vent
+Alutu;Ethiopia;Radiocarbon;7.77;N;38.78;E;2335;Stratovolcano
+O'a Caldera;Ethiopia;Holocene;7.47;N;38.58;E;2075;Caldera
+Corbetti Caldera;Ethiopia;Holocene;7.18;N;38.43;E;2320;Caldera
+Bilate River Field;Ethiopia;Holocene;7.07;N;38.10;E;1700;Maar
+Tepi;Ethiopia;Holocene;7.42;N;35.43;E;2728;Shield volcano
+Hobicha Caldera;Ethiopia;Holocene;6.78;N;37.83;E;1800;Caldera
+Chiracha;Ethiopia;Holocene;6.65;N;38.12;E;1650;Stratovolcano
+Tosa Sucha;Ethiopia;Holocene;5.93;N;37.57;E;1650;Cinder cone
+Unnamed;Ethiopia;Holocene;5.65;N;37.67;E;1200;Cinder cone
+Korath Range;Ethiopia;Holocene;5.1;N;35.88;E;912;Tuff cone
+Mega Basalt Field;Ethiopia;Holocene;4.08;N;37.42;E;1067;Pyroclastic cone
+North Island;Africa-E;Holocene;4.07;N;36.05;E;520;Tuff cone
+Central Island;Africa-E;Holocene;3.5;N;36.04;E;550;Tuff cone
+Marsabit;Africa-E;Holocene;2.32;N;37.97;E;1707;Shield volcano
+South Island;Africa-E;Historical;2.63;N;36.60;E;800;Stratovolcano
+Barrier, The;Africa-E;Historical;2.32;N;36.57;E;1032;Shield volcano
+Namarunu;Africa-E;Tephrochronology;1.98;N;36.43;E;817;Shield volcano
+Segererua Plateau;Africa-E;Holocene;1.57;N;37.90;E;699;Pyroclastic cone
+Emuruangogolak;Africa-E;Radiocarbon;1.5;N;36.33;E;1328;Shield volcano
+Silali;Africa-E;Ar/Ar;1.15;N;36.23;E;1528;Shield volcano
+Paka;Africa-E;Ar/Ar;0.92;N;36.18;E;1697;Shield volcano
+Korosi;Africa-E;Holocene;0.77;N;36.12;E;1446;Shield volcano
+Ol Kokwe;Africa-E;Holocene;0.62;N;36.08;E;1130;Shield volcano
+Nyambeni Hills;Africa-E;Holocene;0.23;N;37.87;E;750;Shield volcano
+Menengai;Africa-E;Tephrochronology;0.2;S;36.07;E;2278;Shield volcano
+Elmenteita Badlands;Africa-E;Holocene;0.52;S;36.27;E;2126;Pyroclastic cone
+Homa Mountain;Africa-E;Holocene;0.38;S;34.50;E;1751;Complex volcano
+Eburru, Ol Doinyo;Africa-E;Holocene;0.65;S;36.22;E;2856;Complex volcano
+Olkaria;Africa-E;Radiocarbon;0.904;S;36.29;E;2434;Pumice cone
+Longonot;Africa-E;Anthropology;0.914;S;36.45;E;2776;Stratovolcano
+Suswa;Africa-E;Holocene;1.175;S;36.35;E;2356;Shield volcano
+Lengai, Ol Doinyo;Africa-E;Historical;2.764;S;35.91;E;2962;Stratovolcano
+Chyulu Hills;Africa-E;Anthropology;2.68;S;37.88;E;2188;Volcanic field
+Kilimanjaro;Africa-E;Holocene;3.07;S;37.35;E;5895;Stratovolcano
+Igwisi Hills;Africa-E;Holocene;4.87;S;31.92;E;;Tuff cone
+Unnamed;Africa-E;Holocene;8.63;S;33.57;E;;Pyroclastic cone
+SW Usangu Basin;Africa-E;Holocene;8.75;S;33.80;E;2179;Lava dome
+Ngozi;Africa-E;Holocene;8.97;S;33.57;E;2622;Caldera
+Izumbwe-Mpoli;Africa-E;Holocene;8.93;S;33.40;E;1568;Pyroclastic cone
+Rungwe;Africa-E;Holocene;9.13;S;33.67;E;2961;Stratovolcano
+Meru;Africa-E;Historical;3.25;S;36.75;E;4565;Stratovolcano
+Kieyo;Africa-E;Historical;9.23;S;33.78;E;2175;Stratovolcano
+Fort Portal Field;Africa-C;Holocene;0.7;N;30.25;E;1524;Tuff cone
+Kyatwa Volc Field;Africa-C;Holocene;0.45;N;30.25;E;1430;Tuff cone
+Katwe-Kikorongo Field;Africa-C;Holocene;0.08;S;29.92;E;1067;Tuff cone
+Bunyaruguru Field;Africa-C;Holocene;0.2;S;30.08;E;1554;Maar
+Katunga;Africa-C;Holocene;0.471;S;30.19;E;1707;Tuff cone
+May-ya-moto;Africa-C;Fumarolic;0.93;S;29.33;E;950;Fumarole field
+Nyamuragira;Africa-C;Historical;1.408;S;29.20;E;3058;Shield volcano
+Nyiragongo;Africa-C;Historical;1.52;S;29.25;E;3470;Stratovolcano
+Karisimbi;Africa-C;Potassium-Argon;1.5;S;29.45;E;4507;Stratovolcano
+Visoke;Africa-C;Historical;1.47;S;29.49;E;3711;Stratovolcano
+Muhavura;Africa-C;Holocene;1.38;S;29.67;E;4127;Stratovolcano
+Bufumbira;Africa-C;Holocene;1.23;S;29.72;E;2440;Cinder cone
+Tshibinda;Africa-C;Holocene;2.32;S;28.75;E;1460;Cinder cone
+Sao Tome;Africa-W;Holocene;0.2;N;6.58;E;2024;Shield volcano
+San Carlos;Africa-W;Holocene;3.35;N;8.52;E;2260;Shield volcano
+San Joaquin;Africa-W;Holocene;3.35;N;8.63;E;2009;Shield volcano
+Santa Isabel;Africa-W;Historical;3.58;N;8.75;E;3007;Shield volcano
+Tombel Graben;Africa-W;Holocene;4.75;N;9.67;E;500;Cinder cone
+Cameroon;Africa-W;Historical;4.203;N;9.17;E;4095;Stratovolcano
+Manengouba;Africa-W;Holocene;5.03;N;9.83;E;2411;Stratovolcano
+Oku Volc Field;Africa-W;Uncertain;6.25;N;10.50;E;3011;Stratovolcano
+Ngaoundere Plateau;Africa-W;Holocene;7.25;N;13.67;E;;Volcanic field
+Biu Plateau;Africa-W;Holocene;10.75;N;12.00;E;;Volcanic field
+Haruj;Africa-N;Holocene;27.25;N;17.50;E;1200;Volcanic field
+Wau-en-Namus;Africa-N;Holocene;25.05;N;17.55;E;547;Caldera
+Toh, Tarso;Africa-N;Holocene;21.33;N;16.33;E;2000;Volcanic field
+Tousside, Tarso;Africa-N;Holocene;21.03;N;16.45;E;3265;Stratovolcano
+Koussi, Emi;Africa-N;Holocene;19.8;N;18.53;E;3415;Pyroclastic shield
+Voon, Tarso;Africa-N;Fumarolic;20.92;N;17.28;E;3100;Stratovolcano
+Marra, Jebel;Africa-N;Radiocarbon;12.95;N;24.27;E;3042;Volcanic field
+Kutum Volc Field;Africa-N;Holocene;14.57;N;25.85;E;;Scoria cone
+Meidob Volc Field;Africa-N;Holocene;15.32;N;26.47;E;2000;Scoria cone
+Bayuda Volc Field;Africa-N;Radiocarbon;18.33;N;32.75;E;670;Cinder cone
+Umm Arafieb, Jebel;Africa-N;Holocene;18.17;N;33.83;E;;Shield volcano
+Sharat Kovakab;Syria;Holocene;36.53;N;40.85;E;534;Volcanic field
+Unnamed;Syria;Historical;36.67;N;37.00;E;;Unknown
+Unnamed;Syria;Holocene;33.308;N;36.93;E;945;Volcanic field
+Unnamed;Syria;Holocene;33.15;N;36.26;E;1197;Volcanic field
+Es Safa;Syria;Historical;33.308;N;37.31;E;979;Volcanic field
+Druze, Jabal ad;Syria;Holocene;32.658;N;36.43;E;1800;Volcanic field
+Harrah, Al;Arabia-W;Holocene;31.08;N;38.42;E;1100;Volcanic field
+Rahah, Harrat ar;Arabia-W;Anthropology;27.8;N;36.17;E;1950;Volcanic field
+'Uwayrid, Harrat;Arabia-W;Anthropology;27.08;N;37.25;E;1920;Volcanic field
+Lunayyir, Harrat;Arabia-W;Historical;25.17;N;37.75;E;1370;Volcanic field
+Ithnayn, Harrat;Arabia-W;Holocene;26.58;N;40.20;E;1625;Volcanic field
+Khaybar, Harrat;Arabia-W;Historical;25;N;39.92;E;2093;Volcanic field
+Kishb, Harrat;Arabia-W;Holocene;22.8;N;41.38;E;1475;Volcanic field
+Birk, Harrat al;Arabia-W;Holocene;18.37;N;41.63;E;381;Volcanic field
+Rahat, Harrat;Arabia-W;Historical;23.08;N;39.78;E;1744;Volcanic field
+Yar, Jabal;Arabia-W;Historical;17.05;N;42.83;E;305;Volcanic field
+Arhab, Harra of;Arabia-S;Historical;15.63;N;44.08;E;3100;Volcanic field
+Marha, Jabal el-;Arabia-S;Holocene;15.28;N;44.22;E;2650;Tuff cone
+Haylan, Jabal;Arabia-S;Anthropology;15.43;N;44.78;E;1550;Volcanic field
+Dhamar, Harras of;Arabia-S;Historical;14.57;N;44.67;E;3500;Volcanic field
+Unnamed;Arabia-S;Uncertain;12.25;N;45.00;E;;Submarine volcano
+Sawad, Harra es-;Arabia-S;Historical;13.58;N;46.12;E;1737;Volcanic field
+Bal Haf, Harra of;Arabia-S;Holocene;14.05;N;48.33;E;233;Volcanic field
+Bir Borhut;Arabia-S;Holocene;15.55;N;50.63;E;;Volcanic field
+Unnamed;Iran;Holocene;39.33;N;45.17;E;;Volcanic field
+Sahand;Iran;Holocene;37.75;N;46.43;E;3707;Stratovolcano
+Sabalan;Iran;Holocene;38.25;N;47.92;E;4811;Stratovolcano
+Damavand;Iran;Holocene;35.951;N;52.11;E;5670;Stratovolcano
+Qal'eh Hasan Ali;Iran;Holocene;29.4;N;57.57;E;;Maar
+Bazman;Iran;Fumarolic;28.07;N;60.00;E;3490;Stratovolcano
+Unnamed;Iran;Holocene;28.17;N;60.67;E;;Volcanic field
+Taftan;Iran;Holocene;28.6;N;61.13;E;3940;Stratovolcano
+Dacht-i-Navar Group;Afghanistan;Holocene;33.95;N;67.92;E;3800;Lava dome
+Vakak Group;Afghanistan;Holocene;34.25;N;67.97;E;3190;Volcanic field
+Grille, La;Indian O.-W;Holocene;11.47;S;43.33;E;1087;Shield volcano
+Ambre-Bobaomby;Madagascar;Holocene;12.6;S;49.15;E;1475;Volcanic field
+Nosy-Be;Madagascar;Holocene;13.32;S;48.48;E;214;Cinder cone
+Ankaizina Field;Madagascar;Holocene;14.3;S;48.67;E;2878;Cinder cone
+Itasy Volc Field;Madagascar;Radiocarbon;19;S;46.77;E;1800;Scoria cone
+Ankaratra Field;Madagascar;Holocene;19.4;S;47.20;E;2644;Cinder cone
+Karthala;Indian O.-W;Historical;11.75;S;43.38;E;2361;Shield volcano
+Fournaise, Piton de la;Indian O.-W;Historical;21.231;S;55.71;E;2632;Shield volcano
+Boomerang Seamount;Indian O.-S;Historical;37.721;S;77.83;E;-650;Submarine volcano
+Amsterdam Island;Indian O.-S;Holocene;37.83;S;77.52;E;881;Stratovolcano
+St. Paul;Indian O.-S;Historical;38.72;S;77.53;E;268;Stratovolcano
+McDonald Islands;Indian O.-S;Historical;53.03;S;72.60;E;230;Complex volcano
+Heard;Indian O.-S;Historical;53.106;S;73.51;E;2745;Stratovolcano
+Kerguelen Islands;Indian O.-S;Holocene;49.58;S;69.50;E;1840;Stratovolcano
+Est, Ile de l';Indian O.-S;Holocene;46.43;S;52.20;E;1090;Stratovolcano
+Possession, Ile de la;Indian O.-S;Holocene;46.42;S;51.75;E;934;Stratovolcano
+Cochons, Ile aux;Indian O.-S;Holocene;46.1;S;50.23;E;775;Stratovolcano
+Prince Edward Island;Indian O.-S;Holocene;46.63;S;37.95;E;672;Shield volcano
+Marion Island;Indian O.-S;Historical;46.9;S;37.75;E;1230;Shield volcano
+Unnamed;Indian O.-E;Uncertain;11.75;N;80.75;E;;Submarine volcano
+Whangarei;New Zealand;Holocene;35.75;S;174.27;E;397;Cinder cone
+Kaikohe-Bay of Islands;New Zealand;Radiocarbon;35.3;S;173.90;E;388;Volcanic field
+Mayor Island;New Zealand;Radiocarbon;37.28;S;176.25;E;355;Shield volcano
+Auckland Field;New Zealand;Radiocarbon;36.9;S;174.87;E;260;Volcanic field
+Egmont [Taranaki];New Zealand;Radiocarbon;39.3;S;174.07;E;2518;Stratovolcano
+Whale Island;New Zealand;Pleistocene-Fumarolic;37.858;S;176.98;E;354;Complex volcano
+Rotorua;New Zealand;Pleistocene-Geysers;38.08;S;176.27;E;757;Caldera
+White Island;New Zealand;Historical;37.52;S;177.18;E;321;Stratovolcano
+Okataina;New Zealand;Historical;38.12;S;176.50;E;1111;Lava dome
+Reporoa;New Zealand;Tephrochronology;38.42;S;176.33;E;592;Caldera
+Maroa;New Zealand;Tephrochronology;38.42;S;176.08;E;1156;Caldera
+Taupo;New Zealand;Radiocarbon;38.82;S;176.00;E;760;Caldera
+Tongariro;New Zealand;Historical;39.13;S;175.64;E;1978;Stratovolcano
+Ruapehu;New Zealand;Historical;39.28;S;175.57;E;2797;Stratovolcano
+Rumble V;New Zealand;Fumarolic;36.139;S;178.20;E;-700;Submarine volcano
+Rumble IV;New Zealand;Fumarolic;36.13;S;178.05;E;-450;Submarine volcano
+Rumble III;New Zealand;Hydrophonic;35.745;S;178.48;E;-140;Submarine volcano
+Healy;New Zealand;Radiocarbon;34.98;S;179.00;E;950;Submarine volcano
+Curtis Island;Kermadec Is;Uncertain;30.542;S;178.56;W;137;Submarine volcano
+Macauley Island;Kermadec Is;Radiocarbon;30.2;S;178.47;W;238;Caldera
+Raoul Island;Kermadec Is;Historical;29.27;S;177.92;W;516;Stratovolcano
+Monowai Seamount;Kermadec Is;Historical;25.887;S;177.19;W;-100;Submarine volcano
+Unnamed;Tonga-SW Pacific;Historical;21.38;S;175.65;W;-500;Submarine volcano
+Unnamed;Tonga-SW Pacific;Historical;20.85;S;175.53;W;-13;Submarine volcano
+Hunga Tonga-Hunga Ha'apai;Tonga-SW Pacific;Historical;20.57;S;175.38;W;149;Submarine volcano
+Falcon Island;Tonga-SW Pacific;Historical;20.32;S;175.42;W;-17;Submarine volcano
+Kao;Tonga-SW Pacific;Holocene;19.67;S;175.03;W;1030;Stratovolcano
+Tofua;Tonga-SW Pacific;Historical;19.75;S;175.07;W;515;Caldera
+Metis Shoal;Tonga-SW Pacific;Historical;19.18;S;174.87;W;43;Submarine volcano
+Home Reef;Tonga-SW Pacific;Historical;18.992;S;174.78;W;-2;Submarine volcano
+Unnamed;Tonga-SW Pacific;Historical;18.325;S;174.37;W;-300;Submarine volcano
+Late;Tonga-SW Pacific;Historical;18.806;S;174.65;W;540;Stratovolcano
+Tafahi;Tonga-SW Pacific;Holocene;15.85;S;173.72;W;560;Stratovolcano
+Curacoa;Tonga-SW Pacific;Historical;15.62;S;173.67;W;-33;Submarine volcano
+Fonualei;Tonga-SW Pacific;Historical;18.02;S;174.33;W;180;Stratovolcano
+Niuafo'ou;Tonga-SW Pacific;Historical;15.6;S;175.63;W;260;Shield volcano
+Vailulu'u;Samoa-SW Pacific;Historical;14.215;S;169.06;W;-592;Submarine volcano
+Ta'u;Samoa-SW Pacific;Holocene;14.23;S;169.45;W;931;Shield volcano
+Ofu-Olosega;Samoa-SW Pacific;Historical;14.175;S;169.62;W;639;Shield volcano
+Tutuila;Samoa-SW Pacific;Holocene;14.295;S;170.70;W;653;Tuff cone
+Upolu;Samoa-SW Pacific;Holocene;13.935;S;171.72;W;1100;Shield volcano
+Savai'i;Samoa-SW Pacific;Historical;13.612;S;172.53;W;1858;Shield volcano
+Wallis Islands;SW Pacific;Holocene;13.3;S;176.17;W;143;Shield volcano
+Taveuni;Fiji Is-SW Pacific;Radiocarbon;16.82;S;179.97;W;1241;Shield volcano
+Koro;Fiji Is-SW Pacific;Holocene;17.32;S;179.40;E;522;Cinder cone
+Nabukelevu;Fiji Is-SW Pacific;Radiocarbon;19.12;S;177.98;E;805;Lava dome
+St. Andrew Strait;Admiralty Is-SW Pacific;Historical;2.38;S;147.35;E;270;Complex volcano
+Baluan;Admiralty Is-SW Pacific;Holocene;2.57;S;147.28;E;254;Stratovolcano
+Unnamed;Admiralty Is-SW Pacific;Hydrophonic;3.03;S;147.78;E;-1300;Submarine volcano
+Blup Blup;New Guinea-NE of;Holocene;3.507;S;144.61;E;402;Stratovolcano
+Kadovar;New Guinea-NE of;Holocene;3.63;S;144.63;E;365;Stratovolcano
+Boisa;New Guinea-NE of;Holocene;3.994;S;144.96;E;240;Stratovolcano
+Bam;New Guinea-NE of;Historical;3.613;S;144.82;E;685;Stratovolcano
+Manam;New Guinea-NE of;Historical;4.08;S;145.04;E;1807;Stratovolcano
+Karkar;New Guinea-NE of;Historical;4.649;S;145.96;E;1839;Stratovolcano
+Yomba;New Guinea-NE of;Uncertain;4.9;S;146.75;E;;Submarine volcano
+Unnamed;New Guinea-NE of;Uncertain;4.311;S;146.26;E;-2000;Submarine volcano
+Long Island;New Guinea-NE of;Historical;5.358;S;147.12;E;1280;Complex volcano
+Umboi;New Guinea-NE of;Holocene;5.589;S;147.88;E;1548;Complex volcano
+Ritter Island;New Guinea-NE of;Historical;5.52;S;148.12;E;140;Stratovolcano
+Sakar;New Guinea-NE of;Holocene;5.414;S;148.09;E;992;Stratovolcano
+Unnamed;New Britain-SW Pac;Uncertain;5.2;S;148.57;E;;Submarine volcano
+Langila;New Britain-SW Pac;Historical;5.525;S;148.42;E;1330;Complex volcano
+Mundua;New Britain-SW Pac;Holocene;4.63;S;149.35;E;179;Complex volcano
+Narage;New Britain-SW Pac;Pleistocene-Geysers;4.55;S;149.13;E;307;Stratovolcano
+Garove;New Britain-SW Pac;Holocene;4.692;S;149.50;E;368;Stratovolcano
+Dakataua;New Britain-SW Pac;Anthropology;5.056;S;150.11;E;400;Caldera
+Bola;New Britain-SW Pac;Holocene;5.15;S;150.03;E;1155;Stratovolcano
+Garua Harbour;New Britain-SW Pac;Holocene;5.3;S;150.07;E;565;Volcanic field
+Lolo;New Britain-SW Pac;Holocene;5.468;S;150.51;E;805;Stratovolcano
+Garbuna Group;New Britain-SW Pac;Historical;5.45;S;150.03;E;564;Stratovolcano
+Pago;New Britain-SW Pac;Historical;5.58;S;150.52;E;742;Caldera
+Sulu Range;New Britain-SW Pac;Fumarolic;5.5;S;150.94;E;610;Stratovolcano
+Hargy;New Britain-SW Pac;Radiocarbon;5.33;S;151.10;E;1148;Stratovolcano
+Bamus;New Britain-SW Pac;Anthropology;5.2;S;151.23;E;2248;Stratovolcano
+Ulawun;New Britain-SW Pac;Historical;5.05;S;151.33;E;2334;Stratovolcano
+Unnamed;New Britain-SW Pac;Uncertain;4.75;S;150.85;E;;Submarine volcano
+Lolobau;New Britain-SW Pac;Historical;4.92;S;151.16;E;858;Caldera
+Rabaul;New Britain-SW Pac;Historical;4.271;S;152.20;E;688;Pyroclastic shield
+Tavui;New Britain-SW Pac;Radiocarbon;4.12;S;152.20;E;200;Caldera
+Doma Peaks;New Guinea;Holocene;5.9;S;143.15;E;3568;Stratovolcano
+Crater Mountain;New Guinea;Holocene;6.58;S;145.08;E;3233;Stratovolcano
+Yelia;New Guinea;Holocene;7.05;S;145.86;E;3384;Stratovolcano
+Koranga;New Guinea;Holocene;7.33;S;146.71;E;1500;Maar
+Madilogo;New Guinea;Holocene;9.2;S;147.57;E;850;Pyroclastic cone
+Hydrographers Range;New Guinea;Holocene;9;S;148.37;E;1915;Stratovolcano
+Lamington;New Guinea;Historical;8.95;S;148.15;E;1680;Stratovolcano
+Managlase Plateau;New Guinea;Anthropology;9.08;S;148.33;E;1342;Volcanic field
+Musa River;New Guinea;Hot Springs;9.308;S;148.13;E;808;Hydrothermal field
+Sessagara;New Guinea;Holocene;9.48;S;149.13;E;370;Pyroclastic cone
+Victory;New Guinea;Historical;9.2;S;149.07;E;1925;Stratovolcano
+Goodenough;D'Entrecasteaux Is;Holocene;9.48;S;150.35;E;220;Volcanic field
+Waiowa;New Guinea;Historical;9.57;S;149.08;E;640;Pyroclastic cone
+Iamalele;D'Entrecasteaux Is;Holocene;9.52;S;150.53;E;200;Lava dome
+Dawson Strait Group;D'Entrecasteaux Is;Hydration Rind;9.62;S;150.88;E;500;Volcanic field
+Lihir;New Ireland-SW Pacific;Holocene;3.125;S;152.64;E;700;Volcanic complex
+Ambitle;New Ireland-SW Pacific;Radiocarbon;4.08;S;153.65;E;450;Stratovolcano
+Tore;Bougainville-SW Pacific;Holocene;5.83;S;154.93;E;2200;Lava cone
+Billy Mitchell;Bougainville-SW Pacific;Radiocarbon;6.092;S;155.23;E;1544;Pyroclastic shield
+Balbi;Bougainville-SW Pacific;Holocene;5.92;S;154.98;E;2715;Stratovolcano
+Takuan Group;Bougainville-SW Pacific;Holocene;6.442;S;155.61;E;2210;Volcanic complex
+Bagana;Bougainville-SW Pacific;Historical;6.14;S;155.20;E;1750;Lava cone
+Loloru;Bougainville-SW Pacific;Radiocarbon;6.52;S;155.62;E;1887;Pyroclastic shield
+Nonda;Solomon Is-SW Pacific;Pleistocene-Fumarolic;7.67;S;156.60;E;760;Stratovolcano
+Kana Keoki;Solomon Is-SW Pacific;Holocene;8.75;S;157.03;E;-700;Submarine volcano
+Coleman Seamount;Solomon Is-SW Pacific;Holocene;8.83;S;157.17;E;;Submarine volcano
+Simbo;Solomon Is-SW Pacific;Anthropology;8.292;S;156.52;E;335;Stratovolcano
+Unnamed;Solomon Is-SW Pacific;Holocene;8.92;S;158.03;E;-240;Submarine volcano
+Gallego;Solomon Is-SW Pacific;Holocene;9.35;S;159.73;E;1000;Volcanic field
+Kavachi;Solomon Is-SW Pacific;Historical;9.02;S;157.95;E;-20;Submarine volcano
+Savo;Solomon Is-SW Pacific;Historical;9.13;S;159.82;E;485;Stratovolcano
+Tinakula;Santa Cruz Is-SW Pacific;Historical;10.38;S;165.80;E;851;Stratovolcano
+Motlav;Vanuatu-SW Pacific;Holocene;13.67;S;167.67;E;411;Stratovolcano
+Suretamatai;Vanuatu-SW Pacific;Historical;13.8;S;167.47;E;921;Complex volcano
+Mere Lava;Vanuatu-SW Pacific;Holocene;14.45;S;168.05;E;1028;Stratovolcano
+Gaua;Vanuatu-SW Pacific;Historical;14.27;S;167.50;E;797;Stratovolcano
+Aoba;Vanuatu-SW Pacific;Historical;15.4;S;167.83;E;1496;Shield volcano
+Ambrym;Vanuatu-SW Pacific;Historical;16.25;S;168.12;E;1334;Pyroclastic shield
+Lopevi;Vanuatu-SW Pacific;Historical;16.507;S;168.35;E;1413;Stratovolcano
+Epi;Vanuatu-SW Pacific;Historical;16.68;S;168.37;E;833;Stratovolcano
+Kuwae;Vanuatu-SW Pacific;Historical;16.829;S;168.54;E;-2;Caldera
+Unnamed;Vanuatu-SW Pacific;Holocene;16.992;S;168.59;E;216;Stratovolcano
+North Vate;Vanuatu-SW Pacific;Holocene;17.47;S;168.35;E;594;Stratovolcano
+Traitor's Head;Vanuatu-SW Pacific;Historical;18.75;S;169.23;E;837;Stratovolcano
+Yasur;Vanuatu-SW Pacific;Historical;19.53;S;169.44;E;361;Stratovolcano
+Aneityum;Vanuatu-SW Pacific;Holocene;20.2;S;169.78;E;852;Stratovolcano
+Eastern Gemini Seamount;SW Pacific;Historical;20.98;S;170.28;E;-80;Submarine volcano
+Matthew Island;SW Pacific;Historical;22.33;S;171.32;E;177;Stratovolcano
+Hunter Island;SW Pacific;Historical;22.4;S;172.05;E;297;Stratovolcano
+Unnamed;SW Pacific;Hydrophonic;25.78;S;168.63;E;-2400;Submarine volcano
+Newer Volcanics Prov;Australia;Radiocarbon;37.77;S;142.50;E;1011;Shield volcano
+Narcondum;Andaman Is-Indian O;Holocene;13.43;N;94.28;E;710;Stratovolcano
+Barren Island;Andaman Is-Indian O;Historical;12.278;N;93.86;E;354;Stratovolcano
+Pulau Weh;Sumatra;Pleistocene-Fumarolic;5.82;N;95.28;E;617;Stratovolcano
+Seulawah Agam;Sumatra;Historical;5.448;N;95.66;E;1810;Stratovolcano
+Peuet Sague;Sumatra;Historical;4.914;N;96.33;E;2801;Complex volcano
+Geureudong;Sumatra;Historical;4.813;N;96.82;E;2885;Stratovolcano
+Kembar;Sumatra;Pleistocene-Fumarolic;3.85;N;97.66;E;2245;Shield volcano
+Sibayak;Sumatra;Historical;3.23;N;98.52;E;2212;Stratovolcano
+Sinabung;Sumatra;Holocene;3.17;N;98.39;E;2460;Stratovolcano
+Toba;Sumatra;Holocene;2.58;N;98.83;E;2157;Caldera
+Imun;Sumatra;Holocene;2.158;N;98.93;E;1505;Unknown
+Helatoba-Tarutung;Sumatra;Pleistocene-Fumarolic;2.03;N;98.93;E;1100;Fumarole field
+Lubukraya;Sumatra;Holocene;1.478;N;99.21;E;1862;Stratovolcano
+Sibualbuali;Sumatra;Holocene;1.556;N;99.26;E;1819;Stratovolcano
+Sorikmarapi;Sumatra;Historical;0.686;N;99.54;E;2145;Stratovolcano
+Sarik-Gajah;Sumatra;Holocene;0.08;N;100.20;E;;Pyroclastic cone
+Talakmau;Sumatra;Holocene;0.079;N;99.98;E;2919;Complex volcano
+Marapi;Sumatra;Historical;0.381;S;100.47;E;2891;Complex volcano
+Tandikat;Sumatra;Historical;0.433;S;100.32;E;2438;Stratovolcano
+Talang;Sumatra;Historical;0.978;S;100.68;E;2597;Stratovolcano
+Hutapanjang;Sumatra;Holocene;2.33;S;101.60;E;2021;Stratovolcano
+Kerinci;Sumatra;Historical;1.697;S;101.26;E;3800;Stratovolcano
+Sumbing;Sumatra;Historical;2.414;S;101.73;E;2507;Stratovolcano
+Pendan;Sumatra;Holocene;2.82;S;102.02;E;;Unknown
+Kunyit;Sumatra;Fumarolic;2.592;S;101.63;E;2151;Stratovolcano
+Belirang-Beriti;Sumatra;Fumarolic;2.82;S;102.18;E;1958;Compound volcano
+Daun, Bukit;Sumatra;Fumarolic;3.38;S;102.37;E;2467;Stratovolcano
+Kaba;Sumatra;Historical;3.52;S;102.62;E;1952;Stratovolcano
+Patah;Sumatra;Uncertain;4.27;S;103.30;E;2817;Unknown
+Dempo;Sumatra;Historical;4.03;S;103.13;E;3173;Stratovolcano
+Lumut Balai, Bukit;Sumatra;Fumarolic;4.22;S;103.62;E;2055;Stratovolcano
+Ranau;Sumatra;Holocene;4.83;S;103.92;E;1881;Caldera
+Besar;Sumatra;Historical;4.43;S;103.67;E;1899;Stratovolcano
+Sekincau Belirang;Sumatra;Fumarolic;5.12;S;104.32;E;1719;Caldera
+Suoh;Sumatra;Historical;5.25;S;104.27;E;1000;Caldera
+Hulubelu;Sumatra;Fumarolic;5.35;S;104.60;E;1040;Caldera
+Rajabasa;Sumatra;Fumarolic;5.78;S;105.63;E;1281;Stratovolcano
+Krakatau;Indonesia;Historical;6.102;S;105.42;E;813;Caldera
+Pulosari;Java;Holocene;6.342;S;105.98;E;1346;Stratovolcano
+Karang;Java;Holocene;6.27;S;106.04;E;1778;Stratovolcano
+Kiaraberes-Gagak;Java;Historical;6.73;S;106.65;E;1511;Stratovolcano
+Perbakti;Java;Fumarolic;6.75;S;106.68;E;1699;Stratovolcano
+Salak;Java;Historical;6.72;S;106.73;E;2211;Stratovolcano
+Gede;Java;Historical;6.78;S;106.98;E;2958;Stratovolcano
+Patuha;Java;Holocene;7.16;S;107.40;E;2434;Stratovolcano
+Malabar;Java;Holocene;7.13;S;107.65;E;2343;Stratovolcano
+Wayang-Windu;Java;Fumarolic;7.208;S;107.63;E;2182;Lava dome
+Tangkubanparahu;Java;Historical;6.77;S;107.60;E;2084;Stratovolcano
+Papandayan;Java;Historical;7.32;S;107.73;E;2665;Stratovolcano
+Kendang;Java;Holocene;7.23;S;107.72;E;2608;Stratovolcano
+Kamojang, Kawah;Java;Pleistocene-Fumarolic;7.125;S;107.80;E;1730;Stratovolcano
+Tampomas;Java;Holocene;6.77;S;107.95;E;1684;Stratovolcano
+Guntur;Java;Historical;7.143;S;107.84;E;2249;Complex volcano
+Galunggung;Java;Historical;7.25;S;108.06;E;2168;Stratovolcano
+Talagabodas;Java;Fumarolic;7.208;S;108.07;E;2201;Stratovolcano
+Karaha, Kawah;Java;Fumarolic;7.12;S;108.08;E;1155;Fumarole field
+Cereme;Java;Historical;6.892;S;108.40;E;3078;Stratovolcano
+Slamet;Java;Historical;7.242;S;109.21;E;3428;Stratovolcano
+Dieng Volc Complex;Java;Historical;7.2;S;109.92;E;2565;Complex volcano
+Sundoro;Java;Historical;7.3;S;109.99;E;3136;Stratovolcano
+Sumbing;Java;Historical;7.384;S;110.07;E;3371;Stratovolcano
+Telomoyo;Java;Holocene;7.37;S;110.40;E;1894;Stratovolcano
+Ungaran;Java;Holocene;7.18;S;110.33;E;2050;Stratovolcano
+Merbabu;Java;Historical;7.45;S;110.43;E;3145;Stratovolcano
+Muria;Java;Holocene;6.62;S;110.88;E;1625;Stratovolcano
+Merapi;Java;Historical;7.542;S;110.44;E;2968;Stratovolcano
+Lawu;Java;Historical;7.625;S;111.19;E;3265;Stratovolcano
+Wilis;Java;Holocene;7.808;S;111.76;E;2563;Stratovolcano
+Kawi-Butak;Java;Holocene;7.92;S;112.45;E;2651;Stratovolcano
+Kelut;Java;Historical;7.93;S;112.31;E;1731;Stratovolcano
+Penanggungan;Java;Holocene;7.62;S;112.63;E;1653;Stratovolcano
+Malang Plain;Java;Holocene;8.02;S;112.68;E;680;Maar
+Arjuno-Welirang;Java;Historical;7.725;S;112.58;E;3339;Stratovolcano
+Semeru;Java;Historical;8.108;S;112.92;E;3676;Stratovolcano
+Tengger Caldera;Java;Historical;7.942;S;112.95;E;2329;Stratovolcano
+Lurus;Java;Holocene;7.73;S;113.58;E;539;Complex volcano
+Lamongan;Java;Historical;7.979;S;113.34;E;1651;Stratovolcano
+Iyang-Argapura;Java;Holocene;7.97;S;113.57;E;3088;Complex volcano
+Raung;Java;Historical;8.125;S;114.04;E;3332;Stratovolcano
+Baluran;Java;Holocene;7.85;S;114.37;E;1247;Stratovolcano
+Ijen;Java;Historical;8.058;S;114.24;E;2799;Stratovolcano
+Bratan;Lesser Sunda Is;Holocene;8.28;S;115.13;E;2276;Caldera
+Batur;Lesser Sunda Is;Historical;8.242;S;115.38;E;1717;Caldera
+Agung;Lesser Sunda Is;Historical;8.342;S;115.51;E;3142;Stratovolcano
+Rinjani;Lesser Sunda Is;Historical;8.42;S;116.47;E;3726;Stratovolcano
+Tambora;Lesser Sunda Is;Historical;8.25;S;118.00;E;2850;Stratovolcano
+Sangeang Api;Lesser Sunda Is;Historical;8.2;S;119.07;E;1949;Complex volcano
+Sano, Wai;Lesser Sunda Is;Holocene;8.72;S;120.02;E;903;Caldera
+Ranakah;Lesser Sunda Is;Historical;8.62;S;120.52;E;2100;Lava dome
+Poco Leok;Lesser Sunda Is;Fumarolic;8.68;S;120.48;E;1675;Unknown
+Inierie;Lesser Sunda Is;Radiocarbon;8.875;S;120.95;E;2245;Stratovolcano
+Inielika;Lesser Sunda Is;Historical;8.73;S;120.98;E;1559;Complex volcano
+Ebulobo;Lesser Sunda Is;Historical;8.82;S;121.18;E;2124;Stratovolcano
+Iya;Lesser Sunda Is;Historical;8.897;S;121.65;E;637;Stratovolcano
+Sukaria Caldera;Lesser Sunda Is;Fumarolic;8.792;S;121.77;E;1500;Caldera
+Ndete Napu;Lesser Sunda Is;Fumarolic;8.72;S;121.78;E;750;Fumarole field
+Kelimutu;Lesser Sunda Is;Historical;8.77;S;121.82;E;1639;Complex volcano
+Paluweh;Lesser Sunda Is;Historical;8.32;S;121.71;E;875;Stratovolcano
+Egon;Lesser Sunda Is;Historical;8.67;S;122.45;E;1703;Stratovolcano
+Ilimuda;Lesser Sunda Is;Fumarolic;8.478;S;122.67;E;1100;Stratovolcano
+Lewotobi;Lesser Sunda Is;Historical;8.542;S;122.78;E;1703;Stratovolcano
+Leroboleng;Lesser Sunda Is;Historical;8.358;S;122.84;E;1117;Complex volcano
+Riang Kotang;Lesser Sunda Is;Fumarolic;8.3;S;122.89;E;200;Fumarole field
+Iliboleng;Lesser Sunda Is;Historical;8.342;S;123.26;E;1659;Stratovolcano
+Lewotolo;Lesser Sunda Is;Historical;8.272;S;123.51;E;1423;Stratovolcano
+Ililabalekan;Lesser Sunda Is;Fumarolic;8.55;S;123.38;E;1018;Stratovolcano
+Iliwerung;Lesser Sunda Is;Historical;8.53;S;123.57;E;1018;Complex volcano
+Tara, Batu;Lesser Sunda Is;Historical;7.792;S;123.58;E;748;Stratovolcano
+Sirung;Lesser Sunda Is;Historical;8.508;S;124.13;E;862;Complex volcano
+Yersey;Lesser Sunda Is;Uncertain;7.53;S;123.95;E;-3800;Submarine volcano
+Emperor of China;Banda Sea;Uncertain;6.62;S;124.22;E;-2850;Submarine volcano
+Nieuwerkerk;Banda Sea;Uncertain;6.6;S;124.68;E;-2285;Submarine volcano
+Gunungapi Wetar;Banda Sea;Historical;6.642;S;126.65;E;282;Stratovolcano
+Wurlali;Banda Sea;Historical;7.125;S;128.68;E;868;Stratovolcano
+Teon;Banda Sea;Historical;6.92;S;129.13;E;655;Stratovolcano
+Nila;Banda Sea;Historical;6.73;S;129.50;E;781;Stratovolcano
+Serua;Banda Sea;Historical;6.3;S;130.00;E;641;Stratovolcano
+Manuk;Banda Sea;Fumarolic;5.53;S;130.29;E;282;Stratovolcano
+Banda Api;Banda Sea;Historical;4.525;S;129.87;E;640;Caldera
+Colo [Una Una];Sulawesi-Indonesia;Historical;0.17;S;121.61;E;507;Stratovolcano
+Ambang;Sulawesi-Indonesia;Historical;0.75;N;124.42;E;1795;Complex volcano
+Soputan;Sulawesi-Indonesia;Historical;1.108;N;124.73;E;1784;Stratovolcano
+Sempu;Sulawesi-Indonesia;Fumarolic;1.13;N;124.76;E;1549;Caldera
+Tondano Caldera;Sulawesi-Indonesia;Fumarolic;1.23;N;124.83;E;1202;Caldera
+Lokon-Empung;Sulawesi-Indonesia;Historical;1.358;N;124.79;E;1580;Stratovolcano
+Mahawu;Sulawesi-Indonesia;Historical;1.358;N;124.86;E;1324;Stratovolcano
+Klabat;Sulawesi-Indonesia;Fumarolic;1.47;N;125.03;E;1995;Stratovolcano
+Tongkoko;Sulawesi-Indonesia;Historical;1.52;N;125.20;E;1149;Stratovolcano
+Ruang;Sangihe Is-Indonesia;Historical;2.3;N;125.37;E;725;Stratovolcano
+Karangetang [Api Siau];Sangihe Is-Indonesia;Historical;2.78;N;125.40;E;1784;Stratovolcano
+Banua Wuhu;Sangihe Is-Indonesia;Historical;3.138;N;125.49;E;-5;Submarine volcano
+Awu;Sangihe Is-Indonesia;Historical;3.67;N;125.50;E;1320;Stratovolcano
+Unnamed;Sangihe Is-Indonesia;Uncertain;3.97;N;124.17;E;-5000;Submarine volcano
+Tarakan;Halmahera-Indonesia;Holocene;1.83;N;127.83;E;318;Pyroclastic cone
+Dukono;Halmahera-Indonesia;Historical;1.68;N;127.88;E;1335;Complex volcano
+Tobaru;Halmahera-Indonesia;Holocene;1.63;N;127.67;E;1035;Unknown
+Ibu;Halmahera-Indonesia;Historical;1.488;N;127.63;E;1325;Stratovolcano
+Gamkonora;Halmahera-Indonesia;Historical;1.38;N;127.53;E;1635;Stratovolcano
+Jailolo;Halmahera-Indonesia;Holocene;1.08;N;127.42;E;1130;Stratovolcano
+Hiri;Halmahera-Indonesia;Holocene;0.9;N;127.32;E;630;Stratovolcano
+Todoko-Ranu;Halmahera-Indonesia;Holocene;1.25;N;127.47;E;979;Caldera
+Tidore;Halmahera-Indonesia;Holocene;0.658;N;127.40;E;1730;Stratovolcano
+Mare;Halmahera-Indonesia;Holocene;0.57;N;127.40;E;308;Stratovolcano
+Moti;Halmahera-Indonesia;Holocene;0.45;N;127.40;E;950;Stratovolcano
+Gamalama;Halmahera-Indonesia;Historical;0.8;N;127.33;E;1715;Stratovolcano
+Tigalalu;Halmahera-Indonesia;Holocene;0.07;N;127.42;E;422;Stratovolcano
+Amasing;Halmahera-Indonesia;Holocene;0.53;S;127.48;E;1030;Stratovolcano
+Bibinoi;Halmahera-Indonesia;Holocene;0.77;S;127.72;E;900;Stratovolcano
+Makian;Halmahera-Indonesia;Historical;0.32;N;127.40;E;1357;Stratovolcano
+Bombalai;Borneo;Holocene;4.4;N;117.88;E;531;Pyroclastic cone
+Jolo;Sulu Is-Philippines;Historical;6.013;N;121.06;E;811;Pyroclastic cone
+Parker;Mindanao-Philippines;Historical;6.113;N;124.89;E;1824;Stratovolcano
+Balut;Mindanao-Philippines;Fumarolic;5.4;N;125.38;E;862;Stratovolcano
+Matutum;Mindanao-Philippines;Holocene;6.37;N;125.07;E;2286;Stratovolcano
+Leonard Range;Mindanao-Philippines;Radiocarbon;7.382;N;126.05;E;1190;Stratovolcano
+Apo;Mindanao-Philippines;Fumarolic;7.008;N;125.27;E;2954;Stratovolcano
+Makaturing;Mindanao-Philippines;Historical;7.647;N;124.32;E;1940;Stratovolcano
+Latukan;Mindanao-Philippines;Holocene;7.65;N;124.47;E;2158;Stratovolcano
+Kalatungan;Mindanao-Philippines;Holocene;7.95;N;124.80;E;2824;Stratovolcano
+Ragang;Mindanao-Philippines;Historical;7.7;N;124.50;E;2815;Stratovolcano
+Malindang;Mindanao-Philippines;Holocene;8.22;N;123.63;E;2435;Stratovolcano
+Balatukan;Mindanao-Philippines;Fumarolic;8.77;N;124.98;E;2450;Compound volcano
+Musuan;Mindanao-Philippines;Historical;7.877;N;125.07;E;646;Lava dome
+Camiguin;Mindanao-Philippines;Historical;9.203;N;124.67;E;1552;Stratovolcano
+Paco;Mindanao-Philippines;Anthropology;9.593;N;125.52;E;524;Stratovolcano
+Cuernos de Negros;Philippines-C;Fumarolic;9.258;N;123.18;E;1862;Stratovolcano
+Canlaon;Philippines-C;Historical;10.412;N;123.13;E;2435;Stratovolcano
+Mandalagan;Philippines-C;Holocene;10.65;N;123.25;E;1879;Stratovolcano
+Silay;Philippines-C;Holocene;10.77;N;123.23;E;1535;Stratovolcano
+Cabalian;Philippines-C;Fumarolic;10.287;N;125.22;E;945;Stratovolcano
+Mahagnoa;Philippines-C;Fumarolic;10.872;N;124.85;E;800;Stratovolcano
+Biliran;Philippines-C;Historical;11.523;N;124.54;E;1301;Compound volcano
+Bulusan;Luzon-Philippines;Historical;12.77;N;124.05;E;1565;Stratovolcano
+Pocdol Mountains;Luzon-Philippines;Holocene;13.05;N;123.96;E;1102;Compound volcano
+Masaraga;Luzon-Philippines;Holocene;13.32;N;123.60;E;1328;Stratovolcano
+Mayon;Luzon-Philippines;Historical;13.257;N;123.69;E;2462;Stratovolcano
+Iriga;Luzon-Philippines;Historical;13.457;N;123.46;E;1196;Stratovolcano
+Isarog;Luzon-Philippines;Fumarolic;13.658;N;123.38;E;1966;Stratovolcano
+Labo;Luzon-Philippines;Pleistocene-Hot Springs;14.02;N;122.79;E;1544;Compound volcano
+Malindig;Luzon-Philippines;Hot Springs;13.24;N;122.02;E;1157;Stratovolcano
+Panay;Luzon-Philippines;Pleistocene-Fumarolic;13.723;N;120.89;E;501;Stratovolcano
+Malinao;Luzon-Philippines;Fumarolic;13.422;N;123.60;E;1548;Stratovolcano
+Banahao;Luzon-Philippines;Holocene;14.07;N;121.48;E;2158;Complex volcano
+San Pablo Volc Field;Luzon-Philippines;Anthropology;14.12;N;121.30;E;1090;Stratovolcano
+Taal;Luzon-Philippines;Historical;14.002;N;120.99;E;400;Stratovolcano
+Mariveles;Luzon-Philippines;Radiocarbon;14.52;N;120.47;E;1420;Stratovolcano
+Natib;Luzon-Philippines;Holocene;14.705;N;120.40;E;1287;Stratovolcano
+Pinatubo;Luzon-Philippines;Historical;15.13;N;120.35;E;1486;Stratovolcano
+Arayat;Luzon-Philippines;Holocene;15.2;N;120.74;E;1026;Stratovolcano
+Amorong;Luzon-Philippines;Fumarolic;15.828;N;120.81;E;376;Unknown
+Santo Tomas;Luzon-Philippines;Uncertain;16.33;N;120.55;E;2260;Stratovolcano
+Patoc;Luzon-Philippines;Fumarolic;17.147;N;120.98;E;1865;Stratovolcano
+Ambalatungan Group;Luzon-Philippines;Fumarolic;17.32;N;121.10;E;2329;Compound volcano
+Laguna Caldera;Luzon-Philippines;Fumarolic;14.42;N;121.27;E;743;Caldera
+Cagua;Luzon-Philippines;Historical;18.222;N;122.12;E;1133;Stratovolcano
+Camiguin de Babuyanes;Luzon-N of;Historical;18.83;N;121.86;E;712;Stratovolcano
+Didicas;Luzon-N of;Historical;19.077;N;122.20;E;244;Compound volcano
+Babuyan Claro;Luzon-N of;Historical;19.523;N;121.94;E;1080;Stratovolcano
+Unnamed;Luzon-N of;Historical;20.33;N;121.75;E;-24;Submarine volcano
+Iraya;Luzon-N of;Historical;20.469;N;122.01;E;1009;Stratovolcano
+Leizhou Bandao;SE Asia;Holocene;20.83;N;109.78;E;259;Volcanic field
+Cu-Lao Re Group;SE Asia;Holocene;15.38;N;109.12;E;181;Volcanic field
+Toroeng Prong;SE Asia;Holocene;14.93;N;108.00;E;800;Cinder cone
+Haut Dong Nai;SE Asia;Holocene;11.6;N;108.20;E;1000;Volcanic field
+Bas Dong Nai;SE Asia;Holocene;10.8;N;107.20;E;392;Volcanic field
+Cendres, Ile des;SE Asia;Historical;10.158;N;109.01;E;-20;Submarine volcano
+Veteran;SE Asia;Fumarolic;9.83;N;109.05;E;;Submarine volcano
+Popa;SE Asia;Anthropology;20.92;N;95.25;E;1518;Stratovolcano
+Lower Chindwin;SE Asia;Holocene;22.28;N;95.10;E;385;Volcanic field
+Singu Plateau;SE Asia;Holocene;22.7;N;95.98;E;507;Fissure vent
+Tengchong;SE Asia;Holocene;25.23;N;98.50;E;2865;Pyroclastic cone
+Unnamed;Taiwan-E of;Uncertain;19.17;N;132.25;E;-10;Submarine volcano
+Unnamed;Taiwan-E of;Uncertain;20.93;N;134.75;E;-6000;Submarine volcano
+Unnamed;Taiwan-E of;Uncertain;21.83;N;121.18;E;-115;Submarine volcano
+Kueishantao;Taiwan;Pleistocene-Fumarolic;24.85;N;121.92;E;401;Stratovolcano
+Tatun Group;Taiwan;Pleistocene-Fumarolic;25.17;N;121.52;E;1120;Stratovolcano
+Unnamed;Taiwan-E of;Historical;24;N;121.83;E;;Submarine volcano
+Pengchiahsu;Taiwan-N of;Pleistocene-Fumarolic;25.63;N;122.07;E;129;Stratovolcano
+Unnamed;Taiwan-N of;Uncertain;25.4;N;122.20;E;-100;Submarine volcano
+Zengyu;Taiwan-N of;Uncertain;26.18;N;122.46;E;-418;Submarine volcano
+Iriomote-jima;Ryukyu Is;Historical;24.558;N;124.00;E;-200;Submarine volcano
+Yokoate-jima;Ryukyu Is;Historical;28.797;N;129.00;E;495;Stratovolcano
+Akuseki-jima;Ryukyu Is;Holocene;29.461;N;129.60;E;584;Stratovolcano
+Iwo-Tori-shima;Ryukyu Is;Historical;27.877;N;128.22;E;212;Complex volcano
+Suwanose-jima;Ryukyu Is;Historical;29.635;N;129.72;E;799;Stratovolcano
+Kogaja-jima;Ryukyu Is;Holocene;29.879;N;129.63;E;301;Lava dome
+Gaja-jima;Ryukyu Is;Holocene;29.9;N;129.54;E;497;Stratovolcano
+Kuchino-shima;Ryukyu Is;Tephrochronology;29.964;N;129.93;E;628;Stratovolcano
+Nakano-shima;Ryukyu Is;Historical;29.856;N;129.86;E;979;Stratovolcano
+Kuchinoerabu-jima;Ryukyu Is;Historical;30.44;N;130.22;E;657;Stratovolcano
+Kikai;Ryukyu Is;Historical;30.789;N;130.31;E;704;Caldera
+Ibusuki Volc Field;Kyushu-Japan;Historical;31.22;N;130.57;E;922;Caldera
+Sumiyoshi-ike;Kyushu-Japan;Radiocarbon;31.768;N;130.59;E;100;Maar
+Sakura-jima;Kyushu-Japan;Historical;31.585;N;130.66;E;1117;Stratovolcano
+Fukue-jima;Kyushu-Japan;Tephrochronology;32.653;N;128.85;E;317;Shield volcano
+Kirishima;Kyushu-Japan;Historical;31.931;N;130.86;E;1700;Shield volcano
+Unzen;Kyushu-Japan;Historical;32.757;N;130.29;E;1500;Complex volcano
+Aso;Kyushu-Japan;Historical;32.881;N;131.11;E;1592;Caldera
+Kuju;Kyushu-Japan;Historical;33.083;N;131.25;E;1791;Stratovolcano
+Tsurumi;Kyushu-Japan;Historical;33.28;N;131.43;E;1584;Lava dome
+Abu;Honshu-Japan;Holocene;34.5;N;131.60;E;641;Shield volcano
+Sanbe;Honshu-Japan;Radiocarbon;35.13;N;132.62;E;1126;Stratovolcano
+Oki-Dogo;Honshu-Japan;Anthropology;36.176;N;133.33;E;151;Shield volcano
+Izu-Tobu;Honshu-Japan;Historical;34.9;N;139.10;E;1406;Pyroclastic cone
+Hakone;Honshu-Japan;Radiocarbon;35.23;N;139.02;E;1438;Complex volcano
+Tateshina;Honshu-Japan;Holocene;36.1;N;138.30;E;2530;Stratovolcano
+Fuji;Honshu-Japan;Historical;35.358;N;138.73;E;3776;Stratovolcano
+On-take;Honshu-Japan;Historical;35.89;N;137.48;E;3063;Complex volcano
+Haku-san;Honshu-Japan;Historical;36.152;N;136.77;E;2702;Stratovolcano
+Norikura;Honshu-Japan;Radiocarbon;36.103;N;137.56;E;3026;Stratovolcano
+Washiba-Kumonotaira;Honshu-Japan;Tephrochronology;36.408;N;137.59;E;2924;Shield volcano
+Yake-dake;Honshu-Japan;Historical;36.224;N;137.59;E;2455;Stratovolcano
+Tate-yama;Honshu-Japan;Historical;36.568;N;137.59;E;2621;Stratovolcano
+Niigata-Yake-yama;Honshu-Japan;Historical;36.918;N;138.04;E;2400;Lava dome
+Myoko;Honshu-Japan;Radiocarbon;36.888;N;138.12;E;2446;Stratovolcano
+Asama;Honshu-Japan;Historical;36.403;N;138.53;E;2568;Complex volcano
+Shiga;Honshu-Japan;Holocene;36.688;N;138.52;E;2041;Shield volcano
+Haruna;Honshu-Japan;Anthropology;36.474;N;138.88;E;1449;Stratovolcano
+Kusatsu-Shirane;Honshu-Japan;Historical;36.62;N;138.54;E;2171;Stratovolcano
+Hiuchi;Honshu-Japan;Historical;36.952;N;139.29;E;2356;Stratovolcano
+Akagi;Honshu-Japan;Uncertain;36.557;N;139.20;E;1828;Stratovolcano
+Nantai;Honshu-Japan;Holocene;36.762;N;139.49;E;2486;Stratovolcano
+Omanago Group;Honshu-Japan;Holocene;36.792;N;139.51;E;2367;Lava dome
+Takahara;Honshu-Japan;Holocene;36.897;N;139.78;E;1795;Stratovolcano
+Nikko-Shirane;Honshu-Japan;Historical;36.796;N;139.38;E;2578;Shield volcano
+Numazawa;Honshu-Japan;Radiocarbon;37.45;N;139.58;E;1100;Shield volcano
+Nasu;Honshu-Japan;Historical;37.122;N;139.97;E;1915;Stratovolcano
+Bandai;Honshu-Japan;Historical;37.598;N;140.08;E;1819;Stratovolcano
+Adatara;Honshu-Japan;Historical;37.644;N;140.29;E;1718;Stratovolcano
+Azuma;Honshu-Japan;Historical;37.732;N;140.25;E;2035;Stratovolcano
+Hijiori;Honshu-Japan;Radiocarbon;38.606;N;140.18;E;516;Caldera
+Zao;Honshu-Japan;Historical;38.141;N;140.44;E;1841;Complex volcano
+Narugo;Honshu-Japan;Historical;38.733;N;140.73;E;470;Caldera
+Kurikoma;Honshu-Japan;Historical;38.958;N;140.79;E;1628;Stratovolcano
+Chokai;Honshu-Japan;Historical;39.096;N;140.05;E;2233;Stratovolcano
+Akita-Komaga-take;Honshu-Japan;Historical;39.758;N;140.80;E;1637;Stratovolcano
+Iwate;Honshu-Japan;Historical;39.85;N;141.00;E;2041;Complex volcano
+Hachimantai;Honshu-Japan;Holocene;39.955;N;140.86;E;1614;Stratovolcano
+Kanpu;Honshu-Japan;Radiocarbon;39.931;N;139.88;E;355;Stratovolcano
+Megata;Honshu-Japan;Tephrochronology;39.95;N;139.73;E;291;Maar
+Akita-Yake-yama;Honshu-Japan;Historical;39.961;N;140.76;E;1366;Complex volcano
+Towada;Honshu-Japan;Historical;40.47;N;140.92;E;1159;Caldera
+Iwaki;Honshu-Japan;Historical;40.653;N;140.31;E;1625;Stratovolcano
+Hakkoda Group;Honshu-Japan;Radiocarbon;40.656;N;140.88;E;1585;Stratovolcano
+Osore-yama;Honshu-Japan;Historical;41.276;N;141.12;E;879;Stratovolcano
+Mutsu-Hiuchi-dake;Honshu-Japan;Pleistocene-Fumarolic;41.436;N;141.06;E;781;Stratovolcano
+To-shima;Izu Is-Japan;Tephrochronology;34.517;N;139.28;E;508;Stratovolcano
+Oshima;Izu Is-Japan;Historical;34.721;N;139.40;E;764;Stratovolcano
+Nii-jima;Izu Is-Japan;Historical;34.393;N;139.27;E;432;Lava dome
+Kozu-shima;Izu Is-Japan;Historical;34.216;N;139.16;E;572;Lava dome
+Mikura-jima;Izu Is-Japan;Tephrochronology;33.871;N;139.61;E;851;Stratovolcano
+Kurose Hole;Izu Is-Japan;Holocene;33.4;N;139.68;E;-107;Submarine volcano
+Miyake-jima;Izu Is-Japan;Historical;34.079;N;139.53;E;815;Stratovolcano
+Hachijo-jima;Izu Is-Japan;Historical;33.13;N;139.77;E;854;Stratovolcano
+Myojin Knoll;Izu Is-Japan;Holocene;32.1;N;139.85;E;360;Submarine volcano
+Aoga-shima;Izu Is-Japan;Historical;32.454;N;139.76;E;423;Stratovolcano
+Bayonnaise Rocks;Izu Is-Japan;Historical;31.88;N;139.92;E;11;Submarine volcano
+Smith Rock;Izu Is-Japan;Historical;31.436;N;140.05;E;136;Submarine volcano
+Sofu-gan;Izu Is-Japan;Uncertain;29.789;N;140.35;E;99;Stratovolcano
+Nishino-shima;Volcano Is-Japan;Historical;27.274;N;140.88;E;38;Caldera
+Unnamed;Volcano Is-Japan;Uncertain;26.13;N;144.48;E;-3200;Submarine volcano
+Tori-shima;Izu Is-Japan;Historical;30.48;N;140.31;E;394;Stratovolcano
+Kaitoku Seamount;Volcano Is-Japan;Historical;26.122;N;141.10;E;-103;Submarine volcano
+Kita-Iwo-jima;Volcano Is-Japan;Historical;25.424;N;141.28;E;792;Stratovolcano
+Kita-Fukutokutai;Volcano Is-Japan;Historical;24.414;N;141.42;E;-73;Submarine volcano
+Iwo-jima;Volcano Is-Japan;Historical;24.754;N;141.29;E;161;Caldera
+Minami-Hiyoshi;Volcano Is-Japan;Historical;23.497;N;141.94;E;-30;Submarine volcano
+Nikko;Volcano Is-Japan;Uncertain;23.075;N;142.31;E;-391;Submarine volcano
+Fukujin;Volcano Is-Japan;Historical;21.93;N;143.47;E;-217;Submarine volcano
+Kasuga;Volcano Is-Japan;Historical;21.765;N;143.71;E;-598;Submarine volcano
+Minami Kasuga;Volcano Is-Japan;Holocene;21.6;N;143.64;E;-170;Submarine volcano
+Unnamed;Mariana Is-C Pacific;Uncertain;21;N;142.90;E;;Submarine volcano
+Unnamed;Mariana Is-C Pacific;Uncertain;20.3;N;143.20;E;;Submarine volcano
+Fukutoku-Okanoba;Volcano Is-Japan;Historical;24.28;N;141.49;E;-14;Submarine volcano
+Ahyi;Mariana Is-C Pacific;Seismicity;20.42;N;145.03;E;-137;Submarine volcano
+Supply Reef;Mariana Is-C Pacific;Hydrophonic;20.13;N;145.10;E;-8;Submarine volcano
+Maug Islands;Mariana Is-C Pacific;Holocene;20.02;N;145.22;E;227;Stratovolcano
+Farallon de Pajaros;Mariana Is-C Pacific;Historical;20.53;N;144.90;E;360;Stratovolcano
+Asuncion;Mariana Is-C Pacific;Historical;19.67;N;145.40;E;857;Stratovolcano
+Agrigan;Mariana Is-C Pacific;Historical;18.77;N;145.67;E;965;Stratovolcano
+Pagan;Mariana Is-C Pacific;Historical;18.13;N;145.80;E;570;Stratovolcano
+Alamagan;Mariana Is-C Pacific;Radiocarbon;17.6;N;145.83;E;744;Stratovolcano
+Sarigan;Mariana Is-C Pacific;Holocene;16.708;N;145.78;E;538;Stratovolcano
+Guguan;Mariana Is-C Pacific;Historical;17.32;N;145.85;E;287;Stratovolcano
+Ruby;Mariana Is-C Pacific;Historical;15.62;N;145.57;E;-230;Submarine volcano
+Anatahan;Mariana Is-C Pacific;Historical;16.35;N;145.67;E;790;Stratovolcano
+Northwest Rota-1;Mariana Is-C Pacific;Historical;14.601;N;144.78;E;-517;Submarine volcano
+Esmeralda Bank;Mariana Is-C Pacific;Fumarolic;15;N;145.25;E;-43;Submarine volcano
+E-san;Hokkaido-Japan;Historical;41.802;N;141.17;E;618;Stratovolcano
+Oshima-Oshima;Hokkaido-Japan;Historical;41.507;N;139.37;E;737;Stratovolcano
+Nigorigawa;Hokkaido-Japan;Pleistocene-Fumarolic;42.12;N;140.45;E;356;Hydrothermal field
+Komaga-take;Hokkaido-Japan;Historical;42.061;N;140.68;E;1131;Stratovolcano
+Niseko;Hokkaido-Japan;Tephrochronology;42.88;N;140.63;E;1154;Stratovolcano
+Yotei;Hokkaido-Japan;Tephrochronology;42.83;N;140.82;E;1898;Stratovolcano
+Shiribetsu;Hokkaido-Japan;Holocene;42.767;N;140.92;E;1107;Stratovolcano
+Kuttara;Hokkaido-Japan;Tephrochronology;42.489;N;141.16;E;581;Stratovolcano
+Usu;Hokkaido-Japan;Historical;42.541;N;140.84;E;737;Stratovolcano
+Rishiri;Hokkaido-Japan;Radiocarbon;45.18;N;141.25;E;1721;Stratovolcano
+Shikotsu;Hokkaido-Japan;Historical;42.688;N;141.38;E;1320;Caldera
+Tokachi;Hokkaido-Japan;Historical;43.416;N;142.69;E;2077;Stratovolcano
+Nipesotsu-Maruyama;Hokkaido-Japan;Historical;43.453;N;143.04;E;2013;Stratovolcano
+Shikaribetsu Group;Hokkaido-Japan;Holocene;43.312;N;143.10;E;1401;Lava dome
+Daisetsu;Hokkaido-Japan;Tephrochronology;43.661;N;142.86;E;2290;Stratovolcano
+Akan;Hokkaido-Japan;Historical;43.384;N;144.01;E;1499;Caldera
+Mashu;Hokkaido-Japan;Radiocarbon;43.57;N;144.57;E;855;Caldera
+Rausu;Hokkaido-Japan;Tephrochronology;44.073;N;145.13;E;1660;Stratovolcano
+Kutcharo;Hokkaido-Japan;Tephrochronology;43.608;N;144.44;E;999;Caldera
+Shiretoko-Iwo-zan;Hokkaido-Japan;Historical;44.131;N;145.17;E;1563;Stratovolcano
+Golovnin;Kuril Is;Historical;43.841;N;145.51;E;543;Caldera
+Smirnov;Kuril Is;Holocene;44.42;N;146.14;E;1189;Stratovolcano
+Mendeleev;Kuril Is;Historical;43.976;N;145.74;E;888;Stratovolcano
+Tiatia;Kuril Is;Historical;44.351;N;146.26;E;1819;Stratovolcano
+Lvinaya Past;Kuril Is;Radiocarbon;44.608;N;146.99;E;528;Stratovolcano
+Berutarube;Kuril Is;Holocene;44.459;N;146.94;E;1221;Stratovolcano
+Atsonupuri;Kuril Is;Historical;44.805;N;147.14;E;1206;Stratovolcano
+Bogatyr Ridge;Kuril Is;Holocene;44.833;N;147.34;E;1634;Stratovolcano
+Unnamed;Kuril Is;Uncertain;45.03;N;147.21;E;-930;Submarine volcano
+Grozny Group;Kuril Is;Historical;45.026;N;147.92;E;1211;Complex volcano
+Baransky;Kuril Is;Historical;45.097;N;148.02;E;1132;Stratovolcano
+Golets-Tornyi Group;Kuril Is;Holocene;45.25;N;148.35;E;442;Pyroclastic cone
+Chirip;Kuril Is;Historical;45.338;N;147.93;E;1587;Stratovolcano
+Medvezhia;Kuril Is;Historical;45.387;N;148.84;E;1125;Somma volcano
+Demon;Kuril Is;Holocene;45.5;N;148.85;E;1205;Stratovolcano
+Ivao Group;Kuril Is;Holocene;45.77;N;149.68;E;1426;Cinder cone
+Rudakov;Kuril Is;Holocene;45.88;N;149.83;E;542;Stratovolcano
+Tri Sestry;Kuril Is;Holocene;45.93;N;149.92;E;998;Stratovolcano
+Kolokol Group;Kuril Is;Historical;46.042;N;150.05;E;1328;Somma volcano
+Unnamed;Kuril Is;Uncertain;46.1;N;150.50;E;-100;Submarine volcano
+Chirpoi;Kuril Is;Historical;46.525;N;150.88;E;742;Caldera
+Unnamed;Kuril Is;Hydrophonic;46.47;N;151.28;E;-502;Submarine volcano
+Milne;Kuril Is;Holocene;46.82;N;151.78;E;1540;Somma volcano
+Goriaschaia Sopka;Kuril Is;Historical;46.83;N;151.75;E;891;Stratovolcano
+Zavaritzki Caldera;Kuril Is;Historical;46.925;N;151.95;E;624;Caldera
+Urataman;Kuril Is;Holocene;47.12;N;152.25;E;678;Somma volcano
+Prevo Peak;Kuril Is;Historical;47.02;N;152.12;E;1360;Stratovolcano
+Ketoi;Kuril Is;Historical;47.35;N;152.48;E;1172;Stratovolcano
+Srednii;Kuril Is;Holocene;47.6;N;152.92;E;36;Submarine volcano
+Ushishur;Kuril Is;Historical;47.52;N;152.80;E;401;Caldera
+Rasshua;Kuril Is;Historical;47.77;N;153.02;E;956;Stratovolcano
+Unnamed;Kuril Is;Historical;48.08;N;153.33;E;-150;Submarine volcano
+Sarychev Peak;Kuril Is;Historical;48.092;N;153.20;E;1496;Stratovolcano
+Raikoke;Kuril Is;Historical;48.292;N;153.25;E;551;Stratovolcano
+Chirinkotan;Kuril Is;Historical;48.98;N;153.48;E;724;Stratovolcano
+Ekarma;Kuril Is;Historical;48.958;N;153.93;E;1170;Stratovolcano
+Kuntomintar;Kuril Is;Pleistocene-Fumarolic;48.75;N;154.02;E;828;Hydrothermal field
+Sinarka;Kuril Is;Historical;48.875;N;154.18;E;934;Stratovolcano
+Kharimkotan;Kuril Is;Historical;49.12;N;154.51;E;1145;Stratovolcano
+Tao-Rusyr Caldera;Kuril Is;Historical;49.35;N;154.70;E;1325;Stratovolcano
+Nemo Peak;Kuril Is;Historical;49.57;N;154.81;E;1018;Caldera
+Shirinki;Kuril Is;Holocene;50.2;N;154.98;E;761;Stratovolcano
+Fuss Peak;Kuril Is;Historical;50.27;N;155.25;E;1772;Stratovolcano
+Lomonosov Group;Kuril Is;Holocene;50.25;N;155.43;E;1681;Cinder cone
+Karpinsky Group;Kuril Is;Historical;50.13;N;155.37;E;1345;Coness
+Chikurachki;Kuril Is;Historical;50.325;N;155.46;E;1816;Stratovolcano
+Vernadskii Ridge;Kuril Is;Holocene;50.55;N;155.97;E;1183;Cinder cone
+Ebeko;Kuril Is;Historical;50.68;N;156.02;E;1156;Somma volcano
+Alaid;Kuril Is;Historical;50.858;N;155.55;E;2339;Stratovolcano
+Mashkovtsev;Kamchatka;Holocene;51.1;N;156.72;E;503;Stratovolcano
+Kambalny;Kamchatka;Holocene;51.3;N;156.87;E;2156;Stratovolcano
+Unnamed;Kamchatka;Holocene;51.6;N;156.55;E;298;Cinder cone
+Diky Greben;Kamchatka;Radiocarbon;51.45;N;156.97;E;1070;Lava dome
+Kurile Lake;Kamchatka;Radiocarbon;51.45;N;157.12;E;81;Caldera
+Koshelev;Kamchatka;Historical;51.357;N;156.75;E;1812;Stratovolcano
+Ilyinsky;Kamchatka;Historical;51.49;N;157.20;E;1578;Stratovolcano
+Kell;Kamchatka;Holocene;51.65;N;157.35;E;900;Stratovolcano
+Belenkaya;Kamchatka;Holocene;51.75;N;157.27;E;892;Stratovolcano
+Zheltovsky;Kamchatka;Historical;51.57;N;157.32;E;1953;Stratovolcano
+Ozernoy;Kamchatka;Holocene;51.88;N;157.38;E;562;Shield volcano
+Olkoviy Volc Group;Kamchatka;Holocene;52.02;N;157.53;E;681;Volcanic field
+Khodutka;Kamchatka;Radiocarbon;52.063;N;157.70;E;2090;Stratovolcano
+Piratkovsky;Kamchatka;Holocene;52.113;N;157.85;E;1322;Stratovolcano
+Ostanets;Kamchatka;Holocene;52.146;N;157.32;E;719;Shield volcano
+Otdelniy;Kamchatka;Holocene;52.22;N;157.43;E;791;Shield volcano
+Golaya;Kamchatka;Holocene;52.263;N;157.79;E;858;Stratovolcano
+Asacha;Kamchatka;Holocene;52.355;N;157.83;E;1910;Complex volcano
+Visokiy;Kamchatka;Holocene;52.43;N;157.93;E;1234;Stratovolcano
+Ksudach;Kamchatka;Historical;51.8;N;157.53;E;1079;Stratovolcano
+Mutnovsky;Kamchatka;Historical;52.453;N;158.20;E;2322;Complex volcano
+Gorely;Kamchatka;Historical;52.558;N;158.03;E;1829;Caldera
+Unnamed;Kamchatka;Holocene;52.57;N;157.02;E;610;Cinder cone
+Tolmachev Dol;Kamchatka;Radiocarbon;52.63;N;157.58;E;1021;Cinder cone
+Vilyuchik;Kamchatka;Tephrochronology;52.7;N;158.28;E;2173;Stratovolcano
+Barkhatnaya Sopka;Kamchatka;Tephrochronology;52.823;N;158.27;E;870;Lava dome
+Unnamed;Kamchatka;Holocene;52.92;N;158.52;E;450;Shield volcano
+Unnamed;Kamchatka;Holocene;52.88;N;158.30;E;700;Shield volcano
+Bolshe-Bannaya;Kamchatka;Holocene;52.9;N;157.78;E;1200;Lava dome
+Opala;Kamchatka;Radiocarbon;52.543;N;157.34;E;2475;Caldera
+Koryaksky;Kamchatka;Historical;53.32;N;158.69;E;3456;Stratovolcano
+Avachinsky;Kamchatka;Historical;53.255;N;158.83;E;2741;Stratovolcano
+Dzenzursky;Kamchatka;Holocene;53.637;N;158.92;E;2285;Compound volcano
+Veer;Kamchatka;Tephrochronology;53.75;N;158.45;E;520;Cinder cone
+Kostakan;Kamchatka;Holocene;53.83;N;158.05;E;1150;Cinder cone
+Bakening;Kamchatka;Tephrochronology;53.905;N;158.07;E;2278;Stratovolcano
+Zavaritsky;Kamchatka;Radiocarbon;53.905;N;158.39;E;1567;Cinder cone
+Akademia Nauk;Kamchatka;Historical;53.98;N;159.45;E;1180;Stratovolcano
+Zhupanovsky;Kamchatka;Historical;53.59;N;159.15;E;2958;Compound volcano
+Karymsky;Kamchatka;Historical;54.05;N;159.45;E;1536;Stratovolcano
+Maly Semiachik;Kamchatka;Historical;54.13;N;159.67;E;1560;Caldera
+Bolshoi Semiachik;Kamchatka;Radiocarbon;54.32;N;160.02;E;1720;Stratovolcano
+Taunshits;Kamchatka;Radiocarbon;54.53;N;159.80;E;2353;Stratovolcano
+Uzon;Kamchatka;Radiocarbon;54.5;N;159.97;E;1617;Caldera
+Kikhpinych;Kamchatka;Radiocarbon;54.487;N;160.25;E;1552;Stratovolcano
+Krasheninnikov;Kamchatka;Radiocarbon;54.593;N;160.27;E;1856;Caldera
+Schmidt;Kamchatka;Holocene;54.92;N;160.63;E;2020;Shield volcano
+Kronotsky;Kamchatka;Historical;54.753;N;160.53;E;3528;Stratovolcano
+Gamchen;Kamchatka;Tephrochronology;54.973;N;160.70;E;2576;Complex volcano
+Vysoky;Kamchatka;Radiocarbon;55.07;N;160.77;E;2161;Stratovolcano
+Komarov;Kamchatka;Radiocarbon;55.032;N;160.72;E;2070;Stratovolcano
+Unnamed;Kamchatka;Holocene;55.92;N;161.75;E;;Cinder cone
+Kizimen;Kamchatka;Historical;55.13;N;160.32;E;2376;Stratovolcano
+Udina;Kamchatka;Holocene;55.755;N;160.53;E;2923;Stratovolcano
+Zimina;Kamchatka;Holocene;55.862;N;160.60;E;3081;Stratovolcano
+Tolbachik;Kamchatka;Historical;55.83;N;160.33;E;3682;Shield volcano
+Kamen;Kamchatka;Holocene;56.02;N;160.59;E;4585;Stratovolcano
+Bezymianny;Kamchatka;Historical;55.978;N;160.59;E;2882;Stratovolcano
+Ushkovsky;Kamchatka;Historical;56.07;N;160.47;E;3943;Compound volcano
+Kliuchevskoi;Kamchatka;Historical;56.057;N;160.64;E;4835;Stratovolcano
+Piip;Kamchatka-E of;Tephrochronology;55.42;N;167.33;E;-300;Submarine volcano
+Khangar;Kamchatka;Radiocarbon;54.75;N;157.38;E;2000;Stratovolcano
+Cherpuk Group;Kamchatka;Holocene;55.55;N;157.47;E;1868;Pyroclastic cone
+Shiveluch;Kamchatka;Historical;56.653;N;161.36;E;3283;Stratovolcano
+Ichinsky;Kamchatka;Historical;55.68;N;157.73;E;3621;Stratovolcano
+Maly Payalpan;Kamchatka;Holocene;55.82;N;157.98;E;1802;Shield volcano
+Bolshoi Payalpan;Kamchatka;Holocene;55.88;N;157.78;E;1906;Shield volcano
+Plosky;Kamchatka;Holocene;55.2;N;158.47;E;1236;Shield volcano
+Akhtang;Kamchatka;Holocene;55.43;N;158.65;E;1956;Shield volcano
+Kozyrevsky;Kamchatka;Holocene;55.58;N;158.38;E;2016;Shield volcano
+Romanovka;Kamchatka;Holocene;55.65;N;158.80;E;1442;Stratovolcano
+Uksichan;Kamchatka;Holocene;56.08;N;158.38;E;1692;Shield volcano
+Bolshoi-Kekuknaysky;Kamchatka;Radiocarbon;56.47;N;157.80;E;1401;Shield volcano
+Kulkev;Kamchatka;Holocene;56.37;N;158.37;E;915;Shield volcano
+Geodesistoy;Kamchatka;Holocene;56.33;N;158.67;E;1170;Shield volcano
+Anaun;Kamchatka;Holocene;56.32;N;158.83;E;1828;Stratovolcano
+Krainy;Kamchatka;Holocene;56.37;N;159.03;E;1554;Shield volcano
+Kekurny;Kamchatka;Holocene;56.4;N;158.85;E;1377;Shield volcano
+Eggella;Kamchatka;Holocene;56.57;N;158.52;E;1046;Shield volcano
+Unnamed;Kamchatka;Holocene;56.82;N;158.95;E;1185;Shield volcano
+Verkhovoy;Kamchatka;Holocene;56.52;N;159.53;E;1400;Shield volcano
+Alney-Chashakondzha;Kamchatka;Radiocarbon;56.7;N;159.65;E;2598;Stratovolcano
+Cherny;Kamchatka;Holocene;56.82;N;159.67;E;1778;Stratovolcano
+Pogranychny;Kamchatka;Holocene;56.85;N;159.80;E;1427;Shield volcano
+Zaozerny;Kamchatka;Holocene;56.88;N;159.95;E;1349;Shield volcano
+Bliznets;Kamchatka;Holocene;56.97;N;159.78;E;1244;Stratovolcano
+Kebeney;Kamchatka;Holocene;57.1;N;159.93;E;1527;Shield volcano
+Fedotych;Kamchatka;Holocene;57.13;N;160.40;E;965;Shield volcano
+Shisheika;Kamchatka;Radiocarbon;57.15;N;161.08;E;379;Lava dome
+Terpuk;Kamchatka;Radiocarbon;57.2;N;159.83;E;765;Shield volcano
+Sedankinsky;Kamchatka;Radiocarbon;57.27;N;160.08;E;1241;Shield volcano
+Leutongey;Kamchatka;Holocene;57.3;N;159.83;E;1333;Shield volcano
+Tuzovsky;Kamchatka;Holocene;57.32;N;159.97;E;1533;Shield volcano
+Gorny Institute;Kamchatka;Radiocarbon;57.33;N;160.20;E;2125;Stratovolcano
+Kinenin;Kamchatka;Radiocarbon;57.35;N;160.97;E;583;Maar
+Bliznetsy;Kamchatka;Radiocarbon;57.35;N;161.37;W;265;Lava cone
+Titila;Kamchatka;Radiocarbon;57.4;N;160.10;E;1559;Shield volcano
+Mezhdusopochny;Kamchatka;Holocene;57.47;N;160.25;E;1641;Shield volcano
+Shishel;Kamchatka;Holocene;57.45;N;160.37;E;2525;Shield volcano
+Elovsky;Kamchatka;Tephrochronology;57.55;N;160.53;E;1381;Shield volcano
+Alngey;Kamchatka;Holocene;57.7;N;160.40;E;1853;Stratovolcano
+Uka;Kamchatka;Holocene;57.7;N;160.58;E;1643;Shield volcano
+Kaileney;Kamchatka;Holocene;57.8;N;160.67;E;1582;Shield volcano
+Plosky;Kamchatka;Holocene;57.83;N;160.25;E;1255;Shield volcano
+Bely;Kamchatka;Holocene;57.88;N;160.53;E;2080;Shield volcano
+Nylgimelkin;Kamchatka;Radiocarbon;57.97;N;160.65;E;1764;Shield volcano
+Snezhniy;Kamchatka;Holocene;58.02;N;160.80;E;2169;Shield volcano
+Iktunup;Kamchatka;Holocene;58.08;N;160.77;E;2300;Shield volcano
+Spokoiny;Kamchatka;Radiocarbon;58.13;N;160.82;E;2171;Stratovolcano
+Ostry;Kamchatka;Holocene;58.18;N;160.82;E;2552;Stratovolcano
+Snegovoy;Kamchatka;Holocene;58.2;N;160.97;E;2169;Shield volcano
+Severny;Kamchatka;Radiocarbon;58.28;N;160.87;E;1936;Shield volcano
+Iettunup;Kamchatka;Holocene;58.4;N;161.08;E;1340;Shield volcano
+Voyampolsky;Kamchatka;Holocene;58.37;N;160.62;E;1225;Shield volcano
+Balagan-Tas;Russia-NE;Historical;66.43;N;143.73;E;993;Cinder cone
+Sikhote-Alin;Russia-SE;Holocene;47;N;137.50;E;;Volcanic field
+Udokan Plateau;Russia-SE;Radiocarbon;56.28;N;117.77;E;2180;Pyroclastic cone
+Vitim Plateau;Russia-SE;Holocene;53.7;N;113.30;E;1250;Cinder cone
+Tunkin Depression;Russia-SE;Holocene;51.5;N;102.50;E;1200;Volcanic field
+Oka Plateau;Russia-SE;Holocene;52.7;N;98.98;E;2077;Cinder cone
+Azas Plateau;Russia-SE;Holocene;52.52;N;98.60;E;2765;Volcanic field
+Taryatu-Chulutu;Mongolia;Radiocarbon;48.17;N;99.70;E;2400;Volcanic field
+Khanuy Gol;Mongolia;Holocene;48.67;N;102.75;E;1886;Volcanic field
+Bus-Obo;Mongolia;Holocene;47.12;N;109.08;E;1162;Cinder cone
+Dariganga Volc Field;Mongolia;Holocene;45.33;N;114.00;E;1778;Cinder cone
+Middle Gobi;Mongolia;Holocene;45.28;N;106.70;E;1120;Cinder cone
+Turfan;China-W;Historical;42.9;N;89.25;E;;Cones
+Tianshan Volc Group;China-W;Historical;42.5;N;82.50;E;;Volcanic field
+Kunlun Volc Group;China-W;Historical;35.52;N;80.20;E;5808;Pyroclastic cone
+Unnamed;China-W;Holocene;35.85;N;91.70;E;5400;Volcanic field
+Honggeertu;China-E;Holocene;41.47;N;113.00;E;1700;Cinder cone
+Keluo Group;China-E;Holocene;49.37;N;125.92;E;670;Pyroclastic cone
+Wudalianchi;China-E;Historical;48.72;N;126.12;E;597;Volcanic field
+Jingbo;China-E;Radiocarbon;44.08;N;128.83;E;500;Volcanic field
+Longgang Group;China-E;Radiocarbon;42.33;N;126.50;E;1000;Cinder cone
+Baitoushan;China-E;Historical;41.98;N;128.08;E;2744;Stratovolcano
+Xianjindao;Korea;Historical;41.33;N;128.00;E;;Unknown
+Ch'uga-ryong;Korea;Holocene;38.33;N;127.33;E;452;Shield volcano
+Ulreung;Korea;Radiocarbon;37.5;N;130.87;E;984;Stratovolcano
+Halla;Korea;Historical;33.37;N;126.53;E;1950;Shield volcano
+Buldir;Aleutian Is;Holocene;52.35;N;175.91;E;656;Stratovolcano
+Kiska;Aleutian Is;Historical;52.103;N;177.60;E;1220;Stratovolcano
+Segula;Aleutian Is;Holocene;52.015;N;178.14;E;1160;Stratovolcano
+Davidof;Aleutian Is;Holocene;51.97;N;178.33;E;328;Stratovolcano
+Little Sitkin;Aleutian Is;Historical;51.95;N;178.54;E;1174;Stratovolcano
+Semisopochnoi;Aleutian Is;Historical;51.93;N;179.58;E;1221;Stratovolcano
+Gareloi;Aleutian Is;Historical;51.79;N;178.79;W;1573;Stratovolcano
+Tanaga;Aleutian Is;Historical;51.885;N;178.15;W;1806;Stratovolcano
+Takawangha;Aleutian Is;Holocene;51.873;N;178.01;W;1449;Stratovolcano
+Bobrof;Aleutian Is;Holocene;51.91;N;177.44;W;738;Stratovolcano
+Kanaga;Aleutian Is;Historical;51.923;N;177.17;W;1307;Stratovolcano
+Moffett;Aleutian Is;Holocene;51.944;N;176.75;W;1196;Stratovolcano
+Adagdak;Aleutian Is;Holocene;51.988;N;176.59;W;610;Stratovolcano
+Great Sitkin;Aleutian Is;Historical;52.076;N;176.13;W;1740;Stratovolcano
+Kasatochi;Aleutian Is;Historical;52.177;N;175.51;W;314;Stratovolcano
+Koniuji;Aleutian Is;Uncertain;52.22;N;175.13;W;273;Stratovolcano
+Sergief;Aleutian Is;Uncertain;52.05;N;174.95;W;560;Stratovolcano
+Atka;Aleutian Is;Historical;52.381;N;174.15;W;1533;Stratovolcano
+Seguam;Aleutian Is;Historical;52.315;N;172.51;W;1054;Stratovolcano
+Amukta;Aleutian Is;Historical;52.5;N;171.25;W;1066;Stratovolcano
+Chagulak;Aleutian Is;Holocene;52.577;N;171.13;W;1142;Stratovolcano
+Yunaska;Aleutian Is;Historical;52.643;N;170.63;W;550;Shield volcano
+Herbert;Aleutian Is;Holocene;52.742;N;170.11;W;1280;Stratovolcano
+Carlisle;Aleutian Is;Historical;52.894;N;170.05;W;1620;Stratovolcano
+Cleveland;Aleutian Is;Historical;52.825;N;169.94;W;1730;Stratovolcano
+Uliaga;Aleutian Is;Holocene;53.065;N;169.77;W;888;Stratovolcano
+Kagamil;Aleutian Is;Historical;52.974;N;169.72;W;893;Stratovolcano
+Vsevidof;Aleutian Is;Historical;53.13;N;168.69;W;2149;Stratovolcano
+Recheschnoi;Aleutian Is;Holocene;53.157;N;168.54;W;1984;Stratovolcano
+Okmok;Aleutian Is;Historical;53.43;N;168.13;W;1073;Shield volcano
+Bogoslof;Aleutian Is;Historical;53.93;N;168.03;W;150;Submarine volcano
+Makushin;Aleutian Is;Historical;53.891;N;166.92;W;1800;Stratovolcano
+Table Top-Wide Bay;Aleutian Is;Holocene;53.968;N;166.68;W;792;Cinder cone
+Akutan;Aleutian Is;Historical;54.134;N;165.99;W;1303;Stratovolcano
+Westdahl;Aleutian Is;Historical;54.518;N;164.65;W;1654;Stratovolcano
+Fisher;Aleutian Is;Historical;54.65;N;164.43;W;1112;Stratovolcano
+Shishaldin;Aleutian Is;Historical;54.756;N;163.97;W;2857;Stratovolcano
+Isanotski;Aleutian Is;Uncertain;54.765;N;163.72;W;2446;Stratovolcano
+Roundtop;Aleutian Is;Holocene;54.8;N;163.59;W;1871;Stratovolcano
+Amak;Aleutian Is;Historical;55.424;N;163.15;W;488;Stratovolcano
+Frosty;Alaska Peninsula;Holocene;55.082;N;162.81;W;2012;Stratovolcano
+Dutton;Alaska Peninsula;Holocene;55.168;N;162.27;W;1506;Stratovolcano
+Emmons Lake;Alaska Peninsula;Holocene;55.341;N;162.08;W;1436;Caldera
+Pavlof;Alaska Peninsula;Historical;55.42;N;161.89;W;2519;Stratovolcano
+Pavlof Sister;Alaska Peninsula;Historical;55.453;N;161.84;W;2142;Stratovolcano
+Dana;Alaska Peninsula;Radiocarbon;55.641;N;161.21;W;1354;Stratovolcano
+Stepovak;Alaska Peninsula;Holocene;55.93;N;160.00;W;1555;Cinder cone
+Kupreanof;Alaska Peninsula;Historical;56.011;N;159.80;W;1895;Stratovolcano
+Veniaminof;Alaska Peninsula;Historical;56.17;N;159.38;W;2507;Stratovolcano
+Black Peak;Alaska Peninsula;Radiocarbon;56.552;N;158.79;W;1032;Stratovolcano
+Aniakchak;Alaska Peninsula;Historical;56.88;N;158.17;W;1341;Caldera
+Yantarni;Alaska Peninsula;Tephrochronology;57.019;N;157.19;W;1345;Stratovolcano
+Chiginagak;Alaska Peninsula;Historical;57.135;N;156.99;W;2221;Stratovolcano
+Kialagvik;Alaska Peninsula;Holocene;57.203;N;156.75;W;1677;Stratovolcano
+Ugashik-Peulik;Alaska Peninsula;Historical;57.751;N;156.37;W;1474;Stratovolcano
+Ukinrek Maars;Alaska Peninsula;Historical;57.832;N;156.51;W;91;Maar
+Unnamed;Alaska Peninsula;Holocene;57.87;N;155.42;W;300;Lava dome
+Martin;Alaska Peninsula;Historical;58.172;N;155.36;W;1863;Stratovolcano
+Mageik;Alaska Peninsula;Holocene;58.195;N;155.25;W;2165;Stratovolcano
+Trident;Alaska Peninsula;Historical;58.236;N;155.10;W;1864;Stratovolcano
+Katmai;Alaska Peninsula;Historical;58.28;N;154.96;W;2047;Stratovolcano
+Novarupta;Alaska Peninsula;Historical;58.27;N;155.16;W;841;Caldera
+Griggs;Alaska Peninsula;Holocene;58.354;N;155.09;W;2317;Stratovolcano
+Snowy Mountain;Alaska Peninsula;Holocene;58.336;N;154.68;W;2162;Stratovolcano
+Denison;Alaska Peninsula;Uncertain;58.418;N;154.45;W;2287;Stratovolcano
+Steller;Alaska Peninsula;Holocene;58.43;N;154.40;W;2272;Stratovolcano
+Kukak;Alaska Peninsula;Fumarolic;58.453;N;154.36;W;2043;Stratovolcano
+Kaguyak;Alaska Peninsula;Holocene;58.608;N;154.03;W;901;Stratovolcano
+Fourpeaked;Alaska Peninsula;Holocene;58.77;N;153.67;W;2105;Stratovolcano
+Douglas;Alaska Peninsula;Holocene;58.855;N;153.54;W;2140;Stratovolcano
+Augustine;Alaska-SW;Historical;59.363;N;153.43;W;1252;Lava dome
+Iliamna;Alaska-SW;Historical;60.032;N;153.09;W;3053;Stratovolcano
+Redoubt;Alaska-SW;Historical;60.485;N;152.74;W;3108;Stratovolcano
+Spurr;Alaska-SW;Historical;61.299;N;152.25;W;3374;Stratovolcano
+Hayes;Alaska-SW;Radiocarbon;61.64;N;152.41;W;3034;Stratovolcano
+St. Paul Island;Alaska-W;Radiocarbon;57.18;N;170.30;W;203;Shield volcano
+Nunivak Island;Alaska-W;Holocene;60.02;N;166.33;W;511;Shield volcano
+Ingakslugwat Hills;Alaska-W;Holocene;61.43;N;164.47;W;190;Cinder cone
+St. Michael;Alaska-W;Anthropology;63.45;N;162.12;W;715;Shield volcano
+Kookooligit Mountains;Alaska-W;Holocene;63.6;N;170.43;W;673;Shield volcano
+Imuruk Lake;Alaska-W;Radiocarbon;65.6;N;163.92;W;610;Shield volcano
+Buzzard Creek;Alaska-E;Radiocarbon;64.07;N;148.42;W;830;Tuff rings
+Sanford;Alaska-E;Holocene;62.22;N;144.13;W;4949;Shield volcano
+Wrangell;Alaska-E;Historical;62;N;144.02;W;4317;Shield volcano
+Gordon;Alaska-E;Holocene;62.13;N;143.08;W;2755;Cinder cone
+Churchill;Alaska-E;Radiocarbon;61.38;N;141.75;W;5005;Stratovolcano
+Edgecumbe;Alaska-E;Radiocarbon;57.05;N;135.75;W;970;Stratovolcano
+Duncan Canal;Alaska-E;Holocene;56.5;N;133.10;W;15;Volcanic field
+Tlevak Strait-Suemez Is.;Alaska-E;Holocene;55.25;N;133.30;W;50;Volcanic field
+Behm Canal-Rudyerd Bay;Alaska-E;Holocene;55.32;N;131.05;W;500;Cinder cone
+Fort Selkirk;Canada;Holocene;62.93;N;137.38;W;1239;Volcanic field
+Alligator Lake;Canada;Holocene;60.42;N;135.42;W;2217;Volcanic field
+Atlin Volc Field;Canada;Holocene;59.68;N;133.32;W;1880;Cinder cone
+Tuya Volc Field;Canada;Holocene;59.37;N;130.58;W;2123;Volcanic field
+Heart Peaks;Canada;Holocene;58.6;N;131.97;W;2012;Shield volcano
+Level Mountain;Canada;Holocene;58.42;N;131.35;W;2190;Shield volcano
+Edziza;Canada;Radiocarbon;57.72;N;130.63;W;2786;Stratovolcano
+Spectrum Range;Canada;Holocene;57.43;N;130.68;W;2430;Shield volcano
+Hoodoo Mountain;Canada;Tephrochronology;56.78;N;131.28;W;1850;Subglacial volcano
+Iskut-Unuk River Cones;Canada;Radiocarbon;56.58;N;130.55;W;1880;Cinder cone
+Tseax River Cone;Canada;Radiocarbon;55.12;N;128.90;W;609;Pyroclastic cone
+Crow Lagoon;Canada;Holocene;54.7;N;130.23;W;335;Pyroclastic cone
+Milbanke Sound Group;Canada;Holocene;52.5;N;128.73;W;335;Cinder cone
+Satah Mountain;Canada;Holocene;52.47;N;124.70;W;1921;Volcanic field
+Nazko;Canada;Radiocarbon;52.9;N;123.73;W;1230;Cinder cone
+Wells Gray-Clearwater;Canada;Dendrochronology;52.33;N;120.57;W;2015;Cinder cone
+Silverthrone;Canada;Holocene;51.43;N;126.30;W;3160;Caldera
+Bridge River Cones;Canada;Holocene;50.8;N;123.40;W;2500;Volcanic field
+Meager;Canada;Radiocarbon;50.63;N;123.50;W;2680;Complex volcano
+Garibaldi Lake;Canada;Holocene;49.92;N;123.03;W;2316;Volcanic field
+Garibaldi;Canada;Radiocarbon;49.85;N;123.00;W;2678;Stratovolcano
+Baker;US-Washington;Historical;48.777;N;121.81;W;3285;Stratovolcano
+Glacier Peak;US-Washington;Tephrochronology;48.112;N;121.11;W;3213;Stratovolcano
+Rainier;US-Washington;Historical;46.853;N;121.76;W;4392;Stratovolcano
+Adams;US-Washington;Tephrochronology;46.206;N;121.49;W;3742;Stratovolcano
+St. Helens;US-Washington;Historical;46.2;N;122.18;W;2549;Stratovolcano
+West Crater;US-Washington;Radiocarbon;45.88;N;122.08;W;1329;Volcanic field
+Indian Heaven;US-Washington;Radiocarbon;45.93;N;121.82;W;1806;Shield volcano
+Hood;US-Oregon;Historical;45.374;N;121.70;W;3426;Stratovolcano
+Jefferson;US-Oregon;Varve Count;44.674;N;121.80;W;3199;Stratovolcano
+Blue Lake Crater;US-Oregon;Radiocarbon;44.411;N;121.77;W;1230;Maar
+Sand Mountain Field;US-Oregon;Radiocarbon;44.38;N;121.93;W;1664;Cinder cone
+Belknap;US-Oregon;Radiocarbon;44.285;N;121.84;W;2095;Shield volcano
+North Sister Field;US-Oregon;Radiocarbon;44.17;N;121.77;W;3074;Complex volcano
+South Sister;US-Oregon;Radiocarbon;44.103;N;121.77;W;3157;Complex volcano
+Bachelor;US-Oregon;Tephrochronology;43.979;N;121.69;W;2763;Stratovolcano
+Davis Lake;US-Oregon;Radiocarbon;43.57;N;121.82;W;2163;Volcanic field
+Newberry;US-Oregon;Radiocarbon;43.722;N;121.23;W;2434;Shield volcano
+Devils Garden;US-Oregon;Holocene;43.512;N;120.86;W;1698;Volcanic field
+Squaw Ridge Lava Field;US-Oregon;Holocene;43.472;N;120.75;W;1711;Volcanic field
+Four Craters Lava Field;US-Oregon;Holocene;43.361;N;120.67;W;1501;Volcanic field
+Cinnamon Butte;US-Oregon;Holocene;43.241;N;122.11;W;1956;Cinder cone
+Crater Lake;US-Oregon;Radiocarbon;42.93;N;122.12;W;2487;Caldera
+Diamond Craters;US-Oregon;Holocene;43.1;N;118.75;W;1435;Volcanic field
+Jordan Craters;US-Oregon;Radiocarbon;43.147;N;117.46;W;1473;Volcanic field
+Shasta;US-California;Historical;41.409;N;122.19;W;4317;Stratovolcano
+Medicine Lake;US-California;Radiocarbon;41.611;N;121.55;W;2412;Shield volcano
+Brushy Butte;US-California;Holocene;41.178;N;121.44;W;1174;Shield volcano
+Big Cave;US-California;Holocene;40.955;N;121.37;W;1259;Shield volcano
+Twin Buttes;US-California;Holocene;40.777;N;121.59;W;1631;Cinder cone
+Tumble Buttes;US-California;Holocene;40.68;N;121.55;W;2191;Cinder cone
+Lassen Volc Center;US-California;Historical;40.492;N;121.51;W;3187;Stratovolcano
+Eagle Lake Field;US-California;Holocene;40.63;N;120.83;W;1652;Fissure vent
+Clear Lake;US-California;Holocene;38.97;N;122.77;W;1439;Volcanic field
+Mono Lake Volc Field;US-California;Tephrochronology;38;N;119.03;W;2121;Cinder cone
+Mono Craters;US-California;Radiocarbon;37.88;N;119.00;W;2796;Lava dome
+Inyo Craters;US-California;Radiocarbon;37.692;N;119.02;W;2629;Lava dome
+Long Valley;US-California;Pleistocene-Fumarolic;37.7;N;118.87;W;3390;Caldera
+Mammoth Mountain;US-California;Radiocarbon;37.631;N;119.03;W;3369;Lava dome
+Ubehebe Craters;US-California;Anthropology;37.02;N;117.45;W;752;Maar
+Golden Trout Creek;US-California;Tephrochronology;36.358;N;118.32;W;2886;Volcanic field
+Coso Volc Field;US-California;Holocene;36.03;N;117.82;W;2400;Lava dome
+Lavic Lake;US-California;Holocene;34.75;N;116.63;W;1495;Volcanic field
+Shoshone Lava Field;US-Idaho;Holocene;43.18;N;114.35;W;1478;Shield volcano
+Craters of the Moon;US-Idaho;Radiocarbon;43.42;N;113.50;W;2005;Cinder cone
+Wapi Lava Field;US-Idaho;Radiocarbon;42.88;N;113.22;W;1604;Shield volcano
+Hell's Half Acre;US-Idaho;Radiocarbon;43.5;N;112.45;W;1631;Shield volcano
+Yellowstone;US-Wyoming;Tephrochronology;44.43;N;110.67;W;2805;Caldera
+Steamboat Springs;US-Nevada;Pleistocene-Fumarolic;39.375;N;119.72;W;1415;Lava dome
+Santa Clara;US-Utah;Holocene;37.257;N;113.63;W;1465;Volcanic field
+Bald Knoll;US-Utah;Holocene;37.328;N;112.41;W;2135;Cinder cone
+Markagunt Plateau;US-Utah;Dendrochronology;37.58;N;112.67;W;2840;Volcanic field
+Black Rock Desert;US-Utah;Radiocarbon;38.97;N;112.50;W;1800;Volcanic field
+Dotsero;US-Colorado;Radiocarbon;39.661;N;107.04;W;2230;Maar
+Uinkaret Field;US-Arizona;Anthropology;36.38;N;113.13;W;1555;Volcanic field
+Sunset Crater;US-Arizona;Dendrochronology;35.37;N;111.50;W;2447;Cinder cone
+Carrizozo;US-New Mexico;Surface Exposure;33.78;N;105.93;W;1731;Cinder cone
+Zuni-Bandera;US-New Mexico;Anthropology;34.8;N;108.00;W;2550;Volcanic field
+Valles Caldera;US-New Mexico;Pleistocene-Fumarolic;35.87;N;106.57;W;3430;Caldera
+CoAxial Segment;Pacific-NE;Historical;46.52;N;129.58;W;-2400;Submarine volcano
+Axial Seamount;Pacific-NE;Historical;45.95;N;130.00;W;-1410;Submarine volcano
+Cleft Segment;Pacific-NE;Historical;44.83;N;130.30;W;-2140;Submarine volcano
+North Gorda Ridge;Pacific-NE;Historical;42.67;N;126.78;W;-3000;Submarine volcano
+Unnamed;Pacific-NE;Uncertain;31.75;N;124.25;W;-2533;Submarine volcano
+Loihi;Hawaiian Is;Historical;18.92;N;155.27;W;-975;Submarine volcano
+Kilauea;Hawaiian Is;Historical;19.421;N;155.29;W;1222;Shield volcano
+Mauna Loa;Hawaiian Is;Historical;19.475;N;155.61;W;4170;Shield volcano
+Mauna Kea;Hawaiian Is;Radiocarbon;19.82;N;155.47;W;4205;Shield volcano
+Hualalai;Hawaiian Is;Historical;19.692;N;155.87;W;2523;Shield volcano
+Haleakala;Hawaiian Is;Anthropology;20.708;N;156.25;W;3055;Shield volcano
+Unnamed;Hawaiian Is;Uncertain;21.75;N;158.75;W;-3000;Submarine volcano
+Unnamed;Hawaiian Is;Historical;23.58;N;163.83;W;-4000;Submarine volcano
+Unnamed;Pacific-E;Historical;9.82;N;104.30;W;-2500;Submarine volcano
+Galapagos Rift;Pacific-E;Historical;0.792;N;86.15;W;-2430;Submarine volcano
+Teahitia;Society Is-C Pacific;Seismicity;17.57;S;148.85;W;-1600;Submarine volcano
+Rocard;Society Is-C Pacific;Seismicity;17.642;S;148.60;W;-2100;Submarine volcano
+Moua Pihaa;Society Is-C Pacific;Seismicity;18.32;S;148.67;W;-180;Submarine volcano
+Mehetia;Society Is-C Pacific;Anthropology;17.87;S;148.07;W;435;Stratovolcano
+Unnamed;Pacific-E;Historical;17.436;S;113.21;W;-2566;Submarine volcano
+Easter Island;Pacific-C;Holocene;27.15;S;109.38;W;560;Shield volcano
+Adams Seamount;Pacific-C;Potassium-Argon;25.37;S;129.27;W;-59;Submarine volcano
+Macdonald;Austral Is-C Pacific;Historical;28.98;S;140.25;W;-27;Submarine volcano
+Antipodes Island;Pacific-S;Holocene;49.68;S;178.77;E;402;Pyroclastic cone
+Unnamed;Pacific-S;Uncertain;53.9;S;140.30;W;-1000;Submarine volcano
+Unnamed;Pacific-S;Uncertain;55.97;S;143.17;W;;Submarine volcano
+Prieto, Cerro;Mexico;Holocene;32.418;N;115.31;W;223;Lava dome
+Pinacate;Mexico;Holocene;31.772;N;113.50;W;1200;Cinder cone
+San Quintin Volc Field;Mexico;Holocene;30.468;N;116.00;W;260;Cinder cone
+San Luis, Isla;Mexico;Holocene;29.814;N;114.38;W;180;Tuff cone
+Jaraguay Volc Field;Mexico;Holocene;29.33;N;114.50;W;960;Cinder cone
+Coronado;Mexico;Fumarolic;29.08;N;113.51;W;440;Stratovolcano
+Guadalupe;Mexico;Holocene;29.07;N;118.28;W;1100;Shield volcano
+San Borja Volc Field;Mexico;Holocene;28.5;N;113.75;W;1360;Cinder cone
+Unnamed;Mexico;Uncertain;28;N;115.00;W;;Submarine volcano
+Tortuga, Isla;Mexico;Holocene;27.43;N;111.98;W;210;Shield volcano
+Comondu-La Purisima;Mexico;Holocene;26;N;111.92;W;780;Volcanic field
+Tres Virgenes;Mexico;Radiocarbon;27.47;N;112.59;W;1940;Stratovolcano
+Socorro;Mexico-Is;Historical;18.78;N;110.95;W;1050;Shield volcano
+Durango Volc Field;Mexico;Holocene;24.15;N;104.45;W;2075;Cinder cone
+Sanganguey;Mexico;Holocene;21.45;N;104.73;W;2340;Stratovolcano
+Barcena;Mexico-Is;Historical;19.3;N;110.82;W;332;Cinder cone
+Mascota Volc Field;Mexico;Holocene;20.62;N;104.83;W;2560;Cinder cone
+Ceboruco;Mexico;Historical;21.125;N;104.51;W;2280;Stratovolcano
+Colima;Mexico;Historical;19.514;N;103.62;W;3850;Stratovolcano
+Zitacuaro-Valle de Bravo;Mexico;Ar/Ar;19.4;N;100.25;W;3500;Caldera
+Jocotitlan;Mexico;Radiocarbon;19.73;N;99.76;W;3900;Stratovolcano
+Michoacan-Guanajuato;Mexico;Historical;19.48;N;102.25;W;3860;Cinder cone
+Toluca, Nevado de;Mexico;Radiocarbon;19.108;N;99.76;W;4680;Stratovolcano
+Papayo;Mexico;Holocene;19.308;N;98.70;W;3600;Lava dome
+Iztaccihuatl;Mexico;Holocene;19.179;N;98.64;W;5230;Stratovolcano
+Chichinautzin;Mexico;Radiocarbon;19.08;N;99.13;W;3930;Volcanic field
+Malinche, La;Mexico;Radiocarbon;19.23;N;98.03;W;4503;Stratovolcano
+Serdan-Oriental;Mexico;Holocene;19.27;N;97.47;W;3485;Tuff cone
+Humeros, Los;Mexico;Holocene;19.68;N;97.45;W;3150;Caldera
+Atlixcos, Los;Mexico;Holocene;19.809;N;96.53;W;800;Shield volcano
+Naolinco Volc Field;Mexico;Radiocarbon;19.67;N;96.75;W;2000;Pyroclastic cone
+Cofre de Perote;Mexico;Radiocarbon;19.492;N;97.15;W;4282;Shield volcano
+Gloria, La;Mexico;Holocene;19.33;N;97.25;W;3500;Volcanic field
+Cumbres,  Las;Mexico;Radiocarbon;19.15;N;97.27;W;3940;Stratovolcano
+Popocatepetl;Mexico;Historical;19.023;N;98.62;W;5426;Stratovolcano
+Orizaba, Pico de;Mexico;Historical;19.03;N;97.27;W;5675;Stratovolcano
+San Martin;Mexico;Historical;18.57;N;95.20;W;1650;Shield volcano
+Chichon, El;Mexico;Historical;17.36;N;93.23;W;1150;Lava dome
+Tacana;Mexico;Historical;15.13;N;92.11;W;4060;Stratovolcano
+Tajumulco;Guatemala;Holocene;15.034;N;91.90;W;4220;Stratovolcano
+Santa Maria;Guatemala;Historical;14.756;N;91.55;W;3772;Stratovolcano
+Almolonga;Guatemala;Historical;14.82;N;91.48;W;3197;Stratovolcano
+Santo Tomas;Guatemala;Pleistocene-Fumarolic;14.71;N;91.48;W;3542;Stratovolcano
+Atitlan;Guatemala;Historical;14.583;N;91.19;W;3535;Stratovolcano
+Toliman;Guatemala;Holocene;14.612;N;91.19;W;3158;Stratovolcano
+Acatenango;Guatemala;Historical;14.501;N;90.88;W;3976;Stratovolcano
+Fuego;Guatemala;Historical;14.473;N;90.88;W;3763;Stratovolcano
+Agua;Guatemala;Holocene;14.465;N;90.74;W;3760;Stratovolcano
+Cuilapa-Barbarena;Guatemala;Holocene;14.33;N;90.40;W;1454;Volcanic field
+Pacaya;Guatemala;Historical;14.381;N;90.60;W;2552;Complex volcano
+Tecuamburro;Guatemala;Radiocarbon;14.156;N;90.41;W;1845;Stratovolcano
+Moyuta;Guatemala;Hot Springs;14.03;N;90.10;W;1662;Stratovolcano
+Flores;Guatemala;Holocene;14.308;N;89.99;W;1600;Volcanic field
+Tahual;Guatemala;Holocene;14.43;N;89.90;W;1716;Stratovolcano
+Santiago, Cerro;Guatemala;Holocene;14.33;N;89.87;W;1192;Volcanic field
+Suchitan;Guatemala;Holocene;14.4;N;89.78;W;2042;Stratovolcano
+Chingo;Guatemala;Holocene;14.12;N;89.73;W;1775;Stratovolcano
+Ixtepeque;Guatemala;Holocene;14.42;N;89.68;W;1292;Lava dome
+Ipala;Guatemala;Holocene;14.55;N;89.63;W;1650;Stratovolcano
+Chiquimula Volc Field;Guatemala;Holocene;14.83;N;89.55;W;1192;Cinder cone
+Quezaltepeque;Guatemala;Holocene;14.57;N;89.45;W;1200;Volcanic field
+San Diego;El Salvador;Holocene;14.27;N;89.48;W;781;Volcanic field
+Singuil, Cerro;El Salvador;Holocene;14.05;N;89.65;W;957;Cinder cone
+Apaneca Range;El Salvador;Holocene;13.891;N;89.79;W;2036;Stratovolcano
+Santa Ana;El Salvador;Historical;13.853;N;89.63;W;2381;Stratovolcano
+Izalco;El Salvador;Historical;13.813;N;89.63;W;1950;Stratovolcano
+Coatepeque Caldera;El Salvador;Holocene;13.87;N;89.55;W;746;Caldera
+Cinotepeque, Cerro;El Salvador;Holocene;14.02;N;89.25;W;665;Volcanic field
+Guazapa;El Salvador;Holocene;13.9;N;89.12;W;1438;Stratovolcano
+San Salvador;El Salvador;Historical;13.734;N;89.29;W;1893;Stratovolcano
+Ilopango;El Salvador;Historical;13.672;N;89.05;W;450;Caldera
+Apastepeque Field;El Salvador;Holocene;13.72;N;88.77;W;700;Volcanic field
+Taburete;El Salvador;Holocene;13.435;N;88.53;W;1172;Stratovolcano
+San Vicente;El Salvador;Holocene;13.595;N;88.84;W;2182;Stratovolcano
+Usulutan;El Salvador;Holocene;13.419;N;88.47;W;1449;Stratovolcano
+Tigre, El;El Salvador;Holocene;13.47;N;88.43;W;1640;Stratovolcano
+Tecapa;El Salvador;Holocene;13.494;N;88.50;W;1593;Stratovolcano
+Chinameca;El Salvador;Holocene;13.478;N;88.33;W;1300;Stratovolcano
+Aramuaca, Laguna;El Salvador;Holocene;13.428;N;88.11;W;181;Maar
+San Miguel;El Salvador;Historical;13.434;N;88.27;W;2130;Stratovolcano
+Conchagua;El Salvador;Uncertain;13.275;N;87.85;W;1225;Stratovolcano
+Conchaguita;El Salvador;Historical;13.229;N;87.77;W;505;Stratovolcano
+Tigre, Isla el;Honduras;Holocene;13.272;N;87.64;W;783;Stratovolcano
+Zacate Grande, Isla;Honduras;Holocene;13.33;N;87.63;W;640;Stratovolcano
+Yojoa, Lake;Honduras;Holocene;14.98;N;87.98;W;1090;Volcanic field
+Utila Island;Honduras;Holocene;16.1;N;86.90;W;74;Pyroclastic cone
+Cosiguina;Nicaragua;Historical;12.98;N;87.57;W;872;Stratovolcano
+San Cristobal;Nicaragua;Historical;12.702;N;87.00;W;1745;Stratovolcano
+Telica;Nicaragua;Historical;12.602;N;86.85;W;1061;Stratovolcano
+Rota;Nicaragua;Holocene;12.55;N;86.75;W;832;Stratovolcano
+Negro, Cerro;Nicaragua;Historical;12.506;N;86.70;W;728;Cinder cone
+Pilas, Las;Nicaragua;Historical;12.495;N;86.69;W;1088;Complex volcano
+Apoyeque;Nicaragua;Radiocarbon;12.242;N;86.34;W;518;Pyroclastic shield
+Nejapa-Miraflores;Nicaragua;Holocene;12.12;N;86.32;W;360;Fissure vent
+Momotombo;Nicaragua;Historical;12.422;N;86.54;W;1297;Stratovolcano
+Granada;Nicaragua;Holocene;11.92;N;85.98;W;300;Fissure vent
+Masaya;Nicaragua;Historical;11.984;N;86.16;W;635;Caldera
+Zapatera;Nicaragua;Holocene;11.73;N;85.82;W;629;Shield volcano
+Mombacho;Nicaragua;Holocene;11.826;N;85.97;W;1344;Stratovolcano
+Concepcion;Nicaragua;Historical;11.538;N;85.62;W;1700;Stratovolcano
+Maderas;Nicaragua;Holocene;11.446;N;85.52;W;1394;Stratovolcano
+Esteli;Nicaragua;Holocene;13.17;N;86.40;W;899;Fissure vent
+Ciguatepe, Cerro el;Nicaragua;Holocene;12.53;N;86.14;W;603;Stratovolcano
+Lajas, Las;Nicaragua;Holocene;12.3;N;85.73;W;926;Shield volcano
+Azul, Volcan;Nicaragua;Holocene;12.53;N;83.87;W;201;Cinder cone
+Orosi;Costa Rica;Uncertain;10.98;N;85.47;W;1659;Stratovolcano
+Rincon de la Vieja;Costa Rica;Historical;10.83;N;85.32;W;1916;Complex volcano
+Tenorio;Costa Rica;Holocene;10.673;N;85.02;W;1916;Stratovolcano
+Arenal;Costa Rica;Historical;10.463;N;84.70;W;1670;Stratovolcano
+Platanar;Costa Rica;Holocene;10.3;N;84.37;W;2267;Stratovolcano
+Miravalles;Costa Rica;Historical;10.748;N;85.15;W;2028;Stratovolcano
+Poas;Costa Rica;Historical;10.2;N;84.23;W;2708;Stratovolcano
+Barva;Costa Rica;Tephrochronology;10.135;N;84.10;W;2906;Complex volcano
+Irazu;Costa Rica;Historical;9.979;N;83.85;W;3432;Stratovolcano
+Turrialba;Costa Rica;Historical;10.025;N;83.77;W;3340;Stratovolcano
+Baru;Panama;Historical;8.808;N;82.54;W;3474;Stratovolcano
+Yeguada, La;Panama;Radiocarbon;8.47;N;80.82;W;1297;Stratovolcano
+Valle, El;Panama;Holocene;8.58;N;80.17;W;1185;Stratovolcano
+Romeral;Colombia;Radiocarbon;5.206;N;75.36;W;3858;Stratovolcano
+Bravo, Cerro;Colombia;Radiocarbon;5.092;N;75.30;W;4000;Stratovolcano
+Santa Isabel;Colombia;Radiocarbon;4.82;N;75.37;W;4950;Shield volcano
+Ruiz, Nevado del;Colombia;Historical;4.895;N;75.32;W;5321;Stratovolcano
+Tolima, Nevado del;Colombia;Historical;4.67;N;75.33;W;5200;Stratovolcano
+Machin;Colombia;Radiocarbon;4.48;N;75.39;W;2650;Stratovolcano
+Huila, Nevado del;Colombia;Historical;2.93;N;76.03;W;5365;Stratovolcano
+Sotara;Colombia;Holocene;2.108;N;76.59;W;4400;Stratovolcano
+Petacas;Colombia;Holocene;1.57;N;76.78;W;4054;Lava dome
+Purace;Colombia;Historical;2.32;N;76.40;W;4650;Stratovolcano
+Dona Juana;Colombia;Historical;1.47;N;76.92;W;4150;Stratovolcano
+Galeras;Colombia;Historical;1.22;N;77.37;W;4276;Complex volcano
+Azufral;Colombia;Radiocarbon;1.08;N;77.68;W;4070;Stratovolcano
+Cumbal;Colombia;Historical;0.95;N;77.87;W;4764;Stratovolcano
+Negro de Mayasquer, Cerro;Colombia;Holocene;0.828;N;77.96;W;4445;Stratovolcano
+Soche;Ecuador;Radiocarbon;0.552;N;77.58;W;3955;Stratovolcano
+Cuicocha;Ecuador;Radiocarbon;0.308;N;78.36;W;3246;Caldera
+Imbabura;Ecuador;Radiocarbon;0.258;N;78.18;W;4609;Compound volcano
+Mojanda;Ecuador;Holocene;0.13;N;78.27;W;4263;Stratovolcano
+Cayambe;Ecuador;Historical;0.029;N;77.99;W;5790;Compound volcano
+Pululagua;Ecuador;Radiocarbon;0.038;N;78.46;W;3356;Caldera
+Reventador;Ecuador;Historical;0.077;S;77.66;W;3562;Stratovolcano
+Atacazo;Ecuador;Radiocarbon;0.353;S;78.62;W;4463;Stratovolcano
+Chacana;Ecuador;Historical;0.375;S;78.25;W;4643;Caldera
+Guagua Pichincha;Ecuador;Historical;0.171;S;78.60;W;4784;Stratovolcano
+Antisana;Ecuador;Historical;0.481;S;78.14;W;5753;Stratovolcano
+Illiniza;Ecuador;Holocene;0.659;S;78.71;W;5248;Stratovolcano
+Sumaco;Ecuador;Historical;0.538;S;77.63;W;3990;Stratovolcano
+Cotopaxi;Ecuador;Historical;0.677;S;78.44;W;5911;Stratovolcano
+Quilotoa;Ecuador;Radiocarbon;0.85;S;78.90;W;3914;Caldera
+Chimborazo;Ecuador;Radiocarbon;1.464;S;78.82;W;6310;Stratovolcano
+Licto;Ecuador;Holocene;1.78;S;78.61;W;3336;Scoria cone
+Tungurahua;Ecuador;Historical;1.467;S;78.44;W;5023;Stratovolcano
+Sangay;Ecuador;Historical;2.002;S;78.34;W;5230;Stratovolcano
+Ecuador;Galapagos;Surface Exposure;0.02;S;91.55;W;790;Shield volcano
+Fernandina;Galapagos;Historical;0.37;S;91.55;W;1476;Shield volcano
+Wolf;Galapagos;Historical;0.02;N;91.35;W;1710;Shield volcano
+Darwin;Galapagos;Surface Exposure;0.18;S;91.28;W;1330;Shield volcano
+Alcedo;Galapagos;Historical;0.43;S;91.12;W;1130;Shield volcano
+Negra, Sierra;Galapagos;Historical;0.83;S;91.17;W;1124;Shield volcano
+Azul, Cerro;Galapagos;Historical;0.92;S;91.41;W;1640;Shield volcano
+Pinta;Galapagos;Historical;0.58;N;90.75;W;780;Shield volcano
+Genovesa;Galapagos;Holocene;0.32;N;89.96;W;64;Shield volcano
+Marchena;Galapagos;Historical;0.33;N;90.47;W;343;Shield volcano
+Santa Cruz;Galapagos;Holocene;0.62;S;90.33;W;864;Shield volcano
+Santiago;Galapagos;Historical;0.22;S;90.77;W;920;Shield volcano
+San Cristobal;Galapagos;Holocene;0.88;S;89.50;W;759;Shield volcano
+Quimsachata;Peru;Radiocarbon;14.2;S;71.33;W;3923;Lava dome
+Auquihuato, Cerro;Peru;Holocene;15.07;S;73.18;W;4980;Cinder cone
+Sara Sara;Peru;Holocene;15.33;S;73.45;W;5522;Stratovolcano
+Coropuna;Peru;Holocene;15.52;S;72.65;W;6377;Stratovolcano
+Andahua Valley;Peru;Holocene;15.42;S;72.33;W;4713;Cinder cone
+Sabancaya;Peru;Historical;15.78;S;71.85;W;5967;Stratovolcano
+Chachani, Nevado;Peru;Holocene;16.191;S;71.53;W;6057;Stratovolcano
+Misti, El;Peru;Historical;16.294;S;71.41;W;5822;Stratovolcano
+Ubinas;Peru;Historical;16.355;S;70.90;W;5672;Stratovolcano
+Ticsani;Peru;Holocene;16.755;S;70.60;W;5408;Lava dome
+Huaynaputina;Peru;Historical;16.608;S;70.85;W;4850;Stratovolcano
+Tutupaca;Peru;Holocene;17.025;S;70.36;W;5815;Stratovolcano
+Yucamane;Peru;Historical;17.18;S;70.20;W;5550;Stratovolcano
+Casiri, Nevados;Peru;Holocene;17.47;S;69.81;W;5650;Stratovolcano
+Patilla Pata;Bolivia;Holocene;18.05;S;69.03;W;5300;Stratovolcano
+Sajama, Nevado del;Bolivia;Holocene;18.1;S;68.88;W;6542;Stratovolcano
+Parinacota;Chile-N;Surface Exposure;18.17;S;69.15;W;6348;Stratovolcano
+Taapaca;Chile-N;Radiocarbon;18.1;S;69.50;W;5860;Complex volcano
+Tacora;Chile-N;Fumarolic;17.72;S;69.77;W;5980;Stratovolcano
+Acotango;Chile-N;Holocene;18.37;S;69.05;W;6052;Stratovolcano
+Colluma, Cerro;Bolivia;Holocene;18.5;S;68.07;W;3876;Maar
+Tambo Quemado;Bolivia;Holocene;18.62;S;68.75;W;4215;Pyroclastic shield
+Arintica;Chile-N;Holocene;18.75;S;69.05;W;5597;Stratovolcano
+Guallatiri;Chile-N;Historical;18.42;S;69.09;W;6071;Stratovolcano
+Tata Sabaya;Bolivia;Holocene;19.13;S;68.53;W;5430;Stratovolcano
+Puchuldiza;Chile-N;Pleistocene-Geysers;19.42;S;68.97;W;4500;Hydrothermal field
+Jayu Khota, Laguna;Bolivia;Holocene;19.45;S;67.42;W;3650;Maar
+Nuevo Mundo;Bolivia;Holocene;19.78;S;66.48;W;5438;Lava dome
+Isluga;Chile-N;Historical;19.15;S;68.83;W;5550;Stratovolcano
+Pampa Luxsar;Bolivia;Holocene;20.85;S;68.20;W;5543;Volcanic field
+Irruputuncu;Chile-N;Historical;20.73;S;68.55;W;5163;Stratovolcano
+Aucanquilcha;Chile-N;Holocene;21.22;S;68.47;W;6176;Stratovolcano
+San Agustin, Cerro;Bolivia;Holocene;21.25;S;67.75;W;4980;Stratovolcano
+Olca-Paruma;Chile-N;Historical;20.93;S;68.48;W;5407;Stratovolcano
+Yumia, Cerro;Bolivia;Holocene;21.5;S;67.50;W;4050;Cones
+Escala;Bolivia;Holocene;21.6;S;66.88;W;4000;Lava dome
+Santa Isabel, Cerro;Bolivia;Holocene;21.67;S;66.50;W;5100;Stratovolcano
+Moiro, Cerro;Bolivia;Holocene;21.68;S;67.47;W;4250;Scoria cone
+Azufre, Cerro del;Chile-N;Holocene;21.787;S;68.24;W;5846;Stratovolcano
+Ollague;Chile-N;Holocene;21.3;S;68.18;W;5868;Stratovolcano
+Paniri;Chile-N;Holocene;22.08;S;68.25;W;5946;Stratovolcano
+Leon, Cerro del;Chile-N;Holocene;22.18;S;68.12;W;5760;Stratovolcano
+Linzor;Chile-N;Holocene;22.18;S;67.95;W;5680;Stratovolcano
+Jorcada;Bolivia;Holocene;22.08;S;67.77;W;5750;Stratovolcano
+Quetena;Bolivia;Holocene;22.25;S;67.42;W;5730;Fissure vent
+Uturuncu;Bolivia;Holocene;22.27;S;67.18;W;6008;Stratovolcano
+San Pedro;Chile-N;Historical;21.88;S;68.40;W;6145;Stratovolcano
+Volcan, El;Chile-N;Holocene;22.33;S;67.97;W;5100;Stratovolcano
+Tocorpuri, Cerros de;Chile-N;Holocene;22.439;S;67.89;W;5808;Stratovolcano
+Tatio, El;Chile-N;Pleistocene-Geysers;22.35;S;68.03;W;4280;Hydrothermal field
+Sairecabur;Chile-N;Holocene;22.72;S;67.89;W;5971;Stratovolcano
+Licancabur;Chile-N;Holocene;22.83;S;67.88;W;5916;Stratovolcano
+Guayaques;Chile-N;Holocene;22.895;S;67.57;W;5598;Lava dome
+Purico Complex;Chile-N;Holocene;23;S;67.75;W;5703;Pyroclastic shield
+Colachi;Chile-N;Holocene;23.236;S;67.65;W;5631;Stratovolcano
+Verde, Laguna;Chile-N;Holocene;23.252;S;67.71;W;5464;Stratovolcano
+Acamarachi;Chile-N;Holocene;23.3;S;67.62;W;6046;Stratovolcano
+Chiliques;Chile-N;Holocene;23.58;S;67.70;W;5778;Stratovolcano
+Putana;Chile-N;Historical;22.55;S;67.85;W;5890;Stratovolcano
+Cordon de Puntas Negras;Chile-N;Holocene;23.743;S;67.53;W;5852;Stratovolcano
+Miniques;Chile-N;Holocene;23.82;S;67.77;W;5910;Stratovolcano
+Tujle, Cerro;Chile-N;Holocene;23.83;S;67.95;W;3550;Maar
+Caichinque;Chile-N;Holocene;23.95;S;67.73;W;4450;Stratovolcano
+Tilocalar;Chile-N;Holocene;23.97;S;68.13;W;3116;Stratovolcano
+Negrillar, El;Chile-N;Holocene;24.18;S;68.25;W;3500;Pyroclastic cone
+Pular;Chile-N;Holocene;24.188;S;68.05;W;6233;Stratovolcano
+Negrillar, La;Chile-N;Holocene;24.28;S;68.60;W;4109;Pyroclastic cone
+Socompa;Chile-N;Radiocarbon;24.4;S;68.25;W;6051;Stratovolcano
+Lascar;Chile-N;Historical;23.37;S;67.73;W;5592;Stratovolcano
+Escorial, Cerro;Chile-N;Holocene;25.08;S;68.37;W;5447;Stratovolcano
+Llullaillaco;Chile-N;Historical;24.72;S;68.53;W;6739;Stratovolcano
+Cordon del Azufre;Chile-N;Holocene;25.33;S;68.52;W;5463;Complex volcano
+Bayo, Cerro;Chile-N;Holocene;25.42;S;68.58;W;5401;Complex volcano
+Nevada, Sierra;Chile-N;Holocene;26.48;S;68.58;W;6127;Complex volcano
+Falso Azufre;Chile-N;Holocene;26.8;S;68.37;W;5890;Complex volcano
+Incahuasi, Nevado de;Chile-N;Holocene;27.042;S;68.28;W;6621;Stratovolcano
+Lastarria;Chile-N;Holocene;25.17;S;68.50;W;5697;Stratovolcano
+Solo, El;Chile-N;Holocene;27.108;S;68.72;W;6190;Stratovolcano
+Ojos del Salado, Nevados;Chile-N;Tephrochronology;27.12;S;68.55;W;6887;Stratovolcano
+Copiapo;Chile-N;Uncertain;27.3;S;69.13;W;6052;Stratovolcano
+Tuzgle, Cerro;Argentina;Holocene;24.05;S;66.48;W;5500;Stratovolcano
+Aracar;Argentina;Historical;24.25;S;67.77;W;6082;Stratovolcano
+Unnamed;Argentina;Holocene;25.1;S;68.27;W;;Pyroclastic cone
+Antofagasta de la Sierra;Argentina;Holocene;26.08;S;67.50;W;4000;Scoria cone
+Condor, Cerro el;Argentina;Holocene;26.62;S;68.35;W;6532;Stratovolcano
+Peinado;Argentina;Holocene;26.62;S;68.15;W;5740;Stratovolcano
+Robledo;Argentina;Holocene;26.77;S;67.72;W;4400;Caldera
+Tipas;Argentina;Holocene;27.2;S;68.55;W;6660;Complex volcano
+San Felix;Chile-Is;Holocene;26.28;S;80.12;W;193;Shield volcano
+Robinson Crusoe;Chile-Is;Historical;33.658;S;78.85;W;922;Shield volcano
+Unnamed;Chile-Is;Uncertain;33.62;S;76.83;W;-642;Submarine volcano
+Tupungatito;Chile-C;Historical;33.4;S;69.80;W;6000;Stratovolcano
+Maipo;Chile-C;Historical;34.161;S;69.83;W;5264;Caldera
+Palomo;Chile-C;Holocene;34.608;S;70.30;W;4860;Stratovolcano
+Atuel, Caldera del;Argentina;Holocene;34.65;S;70.05;W;5189;Caldera
+Risco Plateado;Argentina;Holocene;34.93;S;70.00;W;4999;Stratovolcano
+San Jose;Chile-C;Historical;33.782;S;69.90;W;5856;Stratovolcano
+Tinguiririca;Chile-C;Historical;34.814;S;70.35;W;4280;Stratovolcano
+Calabozos;Chile-C;Holocene;35.558;S;70.50;W;3508;Caldera
+Planchon-Peteroa;Chile-C;Historical;35.24;S;70.57;W;4107;Stratovolcano
+Descabezado Grande;Chile-C;Historical;35.58;S;70.75;W;3953;Stratovolcano
+Maule, Laguna del;Chile-C;Holocene;36.02;S;70.58;W;3092;Caldera
+San Pedro-Pellado;Chile-C;Holocene;35.989;S;70.85;W;3621;Stratovolcano
+Longavi, Nevado de;Chile-C;Radiocarbon;36.193;S;71.16;W;3242;Stratovolcano
+Blancas, Lomas;Chile-C;Holocene;36.286;S;71.01;W;2268;Stratovolcano
+Resago;Chile-C;Holocene;36.45;S;70.92;W;1890;Cinder cone
+Payun Matru;Argentina;Holocene;36.42;S;69.20;W;3680;Shield volcano
+Domuyo;Argentina;Holocene;36.58;S;70.42;W;4709;Stratovolcano
+Azul, Cerro;Chile-C;Historical;35.653;S;70.76;W;3788;Stratovolcano
+Cochiquito Volc Group;Argentina;Holocene;36.77;S;69.82;W;1435;Stratovolcano
+Tromen;Argentina;Holocene;37.142;S;70.03;W;3978;Stratovolcano
+Puesto Cortaderas;Argentina;Holocene;37.55;S;69.62;W;970;Pyroclastic cone
+Chillan, Nevados de;Chile-C;Historical;36.863;S;71.38;W;3212;Stratovolcano
+Trocon;Argentina;Holocene;37.75;S;69.88;W;;Lava dome
+Antuco;Chile-C;Historical;37.406;S;71.35;W;2979;Stratovolcano
+Callaqui;Chile-C;Historical;37.92;S;71.45;W;3164;Stratovolcano
+Marinaqui, Laguna;Chile-C;Holocene;38.27;S;71.10;W;2143;Cinder cone
+Tolguaca;Chile-C;Holocene;38.31;S;71.65;W;2806;Stratovolcano
+Copahue;Chile-C;Historical;37.85;S;71.17;W;2997;Stratovolcano
+Lonquimay;Chile-C;Historical;38.377;S;71.58;W;2865;Stratovolcano
+Sollipulli;Chile-C;Radiocarbon;38.97;S;71.52;W;2282;Caldera
+Caburgua-Huelemolle;Chile-C;Tephrochronology;39.25;S;71.70;W;1496;Cinder cone
+Llaima;Chile-C;Historical;38.692;S;71.73;W;3125;Stratovolcano
+Quetrupillan;Chile-C;Historical;39.5;S;71.70;W;2360;Stratovolcano
+Lanin;Chile-C;Radiocarbon;39.633;S;71.50;W;3747;Stratovolcano
+Huanquihue Group;Argentina;Radiocarbon;39.88;S;71.58;W;2139;Stratovolcano
+Villarrica;Chile-C;Historical;39.42;S;71.93;W;2847;Stratovolcano
+Mocho-Choshuenco;Chile-C;Historical;39.927;S;72.03;W;2422;Stratovolcano
+Cordon Caulle;Chile-C;Historical;40.52;S;72.20;W;1798;Fissure vent
+Carran-Los Venados;Chile-C;Historical;40.35;S;72.07;W;1114;Pyroclastic cone
+Mencheca;Chile-C;Holocene;40.534;S;72.04;W;1840;Stratovolcano
+Pantoja, Cerro;Chile-C;Holocene;40.77;S;71.95;W;2024;Stratovolcano
+Antillanca Group;Chile-C;Holocene;40.771;S;72.15;W;1990;Stratovolcano
+Puyehue;Chile-C;Holocene;40.59;S;72.12;W;2236;Stratovolcano
+Puntiagudo-Cordon Cenizos;Chile-C;Historical;40.969;S;72.26;W;2493;Stratovolcano
+Tronador;Chile-S;Holocene;41.157;S;71.89;W;3491;Stratovolcano
+Cayutue-La Vigueria;Chile-S;Tephrochronology;41.25;S;72.27;W;506;Pyroclastic cone
+Osorno;Chile-S;Historical;41.1;S;72.49;W;2652;Stratovolcano
+Cuernos del Diablo;Chile-S;Holocene;41.4;S;72.00;W;1862;Stratovolcano
+Yate;Chile-S;Holocene;41.755;S;72.40;W;2187;Stratovolcano
+Hornopiren;Chile-S;Holocene;41.874;S;72.43;W;1572;Stratovolcano
+Apagado;Chile-S;Holocene;41.88;S;72.58;W;1210;Pyroclastic cone
+Calbuco;Chile-S;Historical;41.326;S;72.61;W;2003;Stratovolcano
+Huequi;Chile-S;Historical;42.377;S;72.58;W;1318;Stratovolcano
+Chaiten;Chile-S;Radiocarbon;42.833;S;72.65;W;1122;Caldera
+Minchinmavida;Chile-S;Historical;42.793;S;72.44;W;2404;Stratovolcano
+Yanteles;Chile-S;Radiocarbon;43.5;S;72.80;W;2042;Stratovolcano
+Palena Volc Group;Chile-S;Holocene;43.78;S;72.47;W;;Cinder cone
+Melimoyu;Chile-S;Radiocarbon;44.08;S;72.88;W;2400;Stratovolcano
+Puyuhuapi;Chile-S;Holocene;44.3;S;72.53;W;524;Cinder cone
+Mentolat;Chile-S;Historical;44.7;S;73.08;W;1660;Stratovolcano
+Cay;Chile-S;Holocene;45.059;S;72.98;W;2090;Stratovolcano
+Maca;Chile-S;Radiocarbon;45.1;S;73.17;W;2960;Stratovolcano
+Hudson, Cerro;Chile-S;Historical;45.9;S;72.97;W;1905;Stratovolcano
+Rio Murta;Chile-S;Holocene;46.17;S;72.67;W;;Pyroclastic cone
+Arenales;Chile-S;Historical;47.2;S;73.48;W;3437;Stratovolcano
+Corcovado;Chile-S;Historical;43.18;S;72.80;W;2300;Stratovolcano
+Viedma;Argentina;Historical;49.358;S;73.28;W;1500;Subglacial volcano
+Aguilera;Chile-S;Radiocarbon;50.33;S;73.75;W;2546;Stratovolcano
+Reclus;Chile-S;Historical;50.964;S;73.59;W;1000;Cinder cone
+Lautaro;Chile-S;Historical;49.02;S;73.55;W;3607;Stratovolcano
+Burney, Monte;Chile-S;Historical;52.33;S;73.40;W;1758;Stratovolcano
+Palei-Aike Volc Field;Chile-S;Anthropology;52;S;70.00;W;282;Cinder cone
+Fueguino;Chile-S;Historical;54.95;S;70.25;W;150;Lava dome
+Saba;W Indies;Historical;17.63;N;63.23;W;887;Stratovolcano
+Quill, The;W Indies;Radiocarbon;17.478;N;62.96;W;601;Stratovolcano
+Liamuiga;W Indies;Radiocarbon;17.37;N;62.80;W;1156;Stratovolcano
+Nevis Peak;W Indies;Holocene;17.15;N;62.58;W;985;Stratovolcano
+Soufriere Hills;W Indies;Historical;16.72;N;62.18;W;915;Stratovolcano
+Soufriere Guadeloupe;W Indies;Historical;16.05;N;61.67;W;1467;Stratovolcano
+Diables, Morne aux;W Indies;Holocene;15.612;N;61.43;W;861;Stratovolcano
+Diablotins, Morne;W Indies;Holocene;15.503;N;61.40;W;1430;Stratovolcano
+Watt, Morne;W Indies;Historical;15.307;N;61.31;W;1224;Stratovolcano
+Trois Pitons, Morne;W Indies;Radiocarbon;15.37;N;61.33;W;1387;Complex volcano
+Plat Pays, Morne;W Indies;Radiocarbon;15.255;N;61.34;W;940;Stratovolcano
+Pelee;W Indies;Historical;14.82;N;61.17;W;1397;Stratovolcano
+Qualibou;W Indies;Historical;13.83;N;61.05;W;777;Caldera
+Soufriere St. Vincent;W Indies;Historical;13.33;N;61.18;W;1220;Stratovolcano
+Kick 'em Jenny;W Indies;Historical;12.3;N;61.64;W;-185;Submarine volcano
+St. Catherine;W Indies;Holocene;12.15;N;61.67;W;840;Stratovolcano
+Snaefellsjokull;Iceland-W;Radiocarbon;64.8;N;23.78;W;1448;Stratovolcano
+Lysuholl;Iceland-W;Holocene;64.87;N;23.25;W;540;Pyroclastic cone
+Ljosufjoll;Iceland-W;Anthropology;64.87;N;22.23;W;988;Fissure vent
+Reykjaneshryggur;Iceland-SW;Historical;63.67;N;23.33;W;80;Submarine volcano
+Reykjanes;Iceland-SW;Historical;63.88;N;22.50;W;230;Crater rows
+Krisuvik;Iceland-SW;Historical;63.93;N;22.10;W;379;Crater rows
+Brennisteinsfjoll;Iceland-SW;Historical;63.92;N;21.83;W;626;Crater rows
+Hengill;Iceland-SW;Radiocarbon;64.18;N;21.33;W;803;Crater rows
+Grimsnes;Iceland-SW;Tephrochronology;64.03;N;20.87;W;214;Crater rows
+Prestahnukur;Iceland-SW;Radiocarbon;64.6;N;20.58;W;1390;Subglacial volcano
+Langjokull;Iceland-SW;Radiocarbon;64.75;N;19.98;W;1360;Stratovolcano
+Hofsjokull;Iceland-SW;Holocene;64.78;N;18.92;W;1782;Subglacial volcano
+Kerlingarfjoll;Iceland-SW;Holocene;64.63;N;19.32;W;1488;Stratovolcano
+Vestmannaeyjar;Iceland-S;Historical;63.43;N;20.28;W;279;Submarine volcano
+Eyjafjoll;Iceland-S;Historical;63.63;N;19.62;W;1666;Stratovolcano
+Katla;Iceland-S;Historical;63.63;N;19.05;W;1512;Subglacial volcano
+Tindfjallajokull;Iceland-S;Holocene;63.78;N;19.57;W;1463;Stratovolcano
+Torfajokull;Iceland-S;Historical;63.92;N;19.17;W;1259;Stratovolcano
+Vatnafjoll;Iceland-S;Tephrochronology;63.92;N;19.67;W;1235;Fissure vent
+Hekla;Iceland-S;Historical;63.98;N;19.70;W;1491;Stratovolcano
+Grimsvotn;Iceland-NE;Historical;64.42;N;17.33;W;1725;Caldera
+Loki-Fogrufjoll;Iceland-NE;Historical;64.48;N;17.80;W;1570;Subglacial volcano
+Bardarbunga;Iceland-NE;Historical;64.63;N;17.53;W;2000;Stratovolcano
+Tungnafellsjokull;Iceland-NE;Holocene;64.73;N;17.92;W;1535;Stratovolcano
+Kverkfjoll;Iceland-NE;Historical;64.65;N;16.72;W;1920;Stratovolcano
+Askja;Iceland-NE;Historical;65.03;N;16.75;W;1516;Stratovolcano
+Fremrinamur;Iceland-NE;Tephrochronology;65.43;N;16.65;W;939;Stratovolcano
+Krafla;Iceland-NE;Historical;65.73;N;16.78;W;650;Caldera
+Theistareykjarbunga;Iceland;Tephrochronology;65.88;N;16.83;W;564;Shield volcano
+Tjornes Fracture Zone;Iceland-N of;Historical;66.3;N;17.10;W;;Submarine volcano
+oraefajokull;Iceland-SE;Historical;64;N;16.65;W;2119;Stratovolcano
+Esjufjoll;Iceland-SE;Historical;64.27;N;16.65;W;1760;Stratovolcano
+Kolbeinsey Ridge;Iceland-N of;Historical;66.67;N;18.50;W;5;Submarine volcano
+Jan Mayen;Atlantic-N-Jan Mayen;Historical;71.08;N;8.17;W;2277;Stratovolcano
+Unnamed;Arctic Ocean;Uncertain;88.27;N;65.60;W;-1500;Submarine volcano
+Unnamed;Arctic Ocean;Holocene;85.58;N;85.00;E;-3800;Submarine volcano
+Unnamed;Atlantic-N;Historical;49;N;34.50;W;-1650;Submarine volcano
+Unnamed;Atlantic-N;Uncertain;39.95;N;25.83;W;-2835;Submarine volcano
+Unnamed;Atlantic-N;Historical;38.75;N;38.08;W;-4200;Submarine volcano
+Flores;Azores and Madeira;Radiocarbon;39.462;N;31.22;W;914;Stratovolcano
+Corvo;Azores and Madeira;Holocene;39.699;N;31.11;W;718;Stratovolcano
+Fayal;Azores and Madeira;Historical;38.6;N;28.73;W;1043;Stratovolcano
+Pico;Azores and Madeira;Historical;38.47;N;28.40;W;2351;Stratovolcano
+San Jorge;Azores and Madeira;Historical;38.65;N;28.08;W;1053;Fissure vent
+Graciosa;Azores and Madeira;Holocene;39.02;N;27.97;W;402;Stratovolcano
+Terceira;Azores and Madeira;Historical;38.73;N;27.32;W;1023;Stratovolcano
+Don Joao de Castro Bank;Azores and Madeira;Historical;38.23;N;26.63;W;-14;Submarine volcano
+Unnamed;Azores and Madeira;Historical;37.78;N;25.67;W;350;Pyroclastic cone
+Sete Cidades;Azores and Madeira;Historical;37.87;N;25.78;W;856;Stratovolcano
+Agua de Pau;Azores and Madeira;Historical;37.77;N;25.47;W;947;Stratovolcano
+Furnas;Azores and Madeira;Historical;37.77;N;25.32;W;805;Stratovolcano
+Monaco Bank;Azores and Madeira;Historical;37.6;N;25.88;W;-197;Submarine volcano
+Madeira;Azores and Madeira;Radiocarbon;32.73;N;16.97;W;1862;Shield volcano
+La Palma;Canary Is;Historical;28.57;N;17.83;W;2426;Stratovolcano
+Hierro;Canary Is;Radiocarbon;27.73;N;18.03;W;1500;Shield volcano
+Tenerife;Canary Is;Historical;28.271;N;16.64;W;3715;Stratovolcano
+Gran Canaria;Canary Is;Radiocarbon;28;N;15.58;W;1950;Fissure vent
+Fuerteventura;Canary Is;Holocene;28.358;N;14.02;W;529;Fissure vent
+Lanzarote;Canary Is;Historical;29.03;N;13.63;W;670;Fissure vent
+Fogo;Cape Verde Is;Historical;14.95;N;24.35;W;2829;Stratovolcano
+Brava;Cape Verde Is;Holocene;14.85;N;24.72;W;900;Stratovolcano
+Sao Vicente;Cape Verde Is;Holocene;16.85;N;24.97;W;725;Stratovolcano
+Unnamed;Atlantic-C;Uncertain;7;N;21.83;W;-1415;Submarine volcano
+Unnamed;Atlantic-C;Uncertain;4.2;N;21.45;W;-2900;Submarine volcano
+Unnamed;Atlantic-C;Uncertain;0.72;S;20.53;W;-1528;Submarine volcano
+Unnamed;Atlantic-C;Uncertain;3.5;S;24.50;W;-5300;Submarine volcano
+Ascension;Atlantic-C;Holocene;7.95;S;14.37;W;858;Stratovolcano
+Trindade;Atlantic-C;Holocene;20.514;S;29.33;W;600;Stratovolcano
+Tristan da Cunha;Atlantic-S;Historical;37.092;S;12.28;W;2060;Shield volcano
+Bouvet;Atlantic-S;Magnetism;54.42;S;3.35;E;780;Shield volcano
+Thompson Island;Atlantic-S;Uncertain;53.93;S;5.50;E;;Submarine volcano
+Young Island;Antarctica;Fumarolic;66.42;S;162.47;E;1340;Stratovolcano
+Sturge Island;Antarctica;Uncertain;67.4;S;164.83;E;1167;Stratovolcano
+Pleiades, The;Antarctica;Potassium-Argon;72.67;S;165.50;E;3040;Stratovolcano
+Unnamed;Antarctica;Holocene;73.45;S;164.58;E;2987;Scoria cone
+Melbourne;Antarctica;Tephrochronology;74.35;S;164.70;E;2732;Stratovolcano
+Unnamed;Antarctica;Holocene;76.83;S;163.00;E;-500;Submarine volcano
+Buckle Island;Antarctica;Historical;66.78;S;163.25;E;1239;Stratovolcano
+Royal Society Range;Antarctica;Holocene;78.25;S;163.33;E;3000;Cinder cone
+Berlin;Antarctica;Ar/Ar;76.05;S;136.00;W;3478;Shield volcano
+Andrus;Antarctica;Holocene;75.8;S;132.33;W;2978;Shield volcano
+Waesche;Antarctica;Holocene;77.17;S;126.88;W;3292;Shield volcano
+Siple;Antarctica;Holocene;73.43;S;126.67;W;3110;Shield volcano
+Toney Mountain;Antarctica;Holocene;75.8;S;115.83;W;3595;Shield volcano
+Takahe;Antarctica;Ice Core;76.28;S;112.08;W;3460;Shield volcano
+Hudson Mountains;Antarctica;Uncertain;74.33;S;99.42;W;749;Stratovolcano
+Peter I Island;Antarctica;Holocene;68.85;S;90.58;W;1640;Shield volcano
+Erebus;Antarctica;Historical;77.53;S;167.17;E;3794;Stratovolcano
+Penguin Island;Antarctica;Lichenometry;62.1;S;57.93;W;180;Stratovolcano
+Deception Island;Antarctica;Historical;62.97;S;60.65;W;576;Caldera
+Paulet;Antarctica;Holocene;63.58;S;55.77;W;353;Cinder cone
+Bridgeman Island;Antarctica;Uncertain;62.05;S;56.75;W;240;Stratovolcano
+Seal Nunataks Group;Antarctica;Uncertain;65.03;S;60.05;W;368;Pyroclastic cone
+Thule Islands;Antarctica;Historical;59.45;S;27.37;W;1075;Stratovolcano
+Montagu Island;Antarctica;Historical;58.42;S;26.33;W;1370;Shield volcano
+Bristol Island;Antarctica;Historical;59.03;S;26.58;W;1100;Stratovolcano
+Michael;Antarctica;Historical;57.78;S;26.45;W;990;Stratovolcano
+Candlemas Island;Antarctica;Historical;57.08;S;26.67;W;550;Stratovolcano
+Hodson;Antarctica;Holocene;56.7;S;27.15;W;1005;Stratovolcano
+Leskov Island;Antarctica;Fumarolic;56.67;S;28.13;W;190;Stratovolcano
+Zavodovski;Antarctica;Historical;56.3;S;27.57;W;551;Stratovolcano
+Protector Shoal;Antarctica;Historical;55.92;S;28.08;W;-27;Submarine volcano
